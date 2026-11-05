@@ -1,0 +1,6543 @@
+[
+  {
+    "id": 1,
+    "tipo": "coartada",
+    "nombre": "Declaración: Blanca",
+    "texto": "Blanca asegura que se encontraba en Entrada en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_entrada",
+      "nombre_Blanca"
+    ]
+  },
+  {
+    "id": 2,
+    "tipo": "coartada",
+    "nombre": "Declaración: Blanca",
+    "texto": "Blanca asegura que se encontraba en Baños en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_baños",
+      "nombre_Blanca"
+    ]
+  },
+  {
+    "id": 3,
+    "tipo": "coartada",
+    "nombre": "Declaración: Blanca",
+    "texto": "Blanca asegura que se encontraba en Ropero en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_ropero",
+      "nombre_Blanca"
+    ]
+  },
+  {
+    "id": 4,
+    "tipo": "coartada",
+    "nombre": "Declaración: Blanca",
+    "texto": "Blanca asegura que se encontraba en Reservados en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_reservados",
+      "nombre_Blanca"
+    ]
+  },
+  {
+    "id": 5,
+    "tipo": "coartada",
+    "nombre": "Declaración: Blanca",
+    "texto": "Blanca asegura que se encontraba en Barra en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_barra",
+      "nombre_Blanca"
+    ]
+  },
+  {
+    "id": 6,
+    "tipo": "coartada",
+    "nombre": "Declaración: Blanca",
+    "texto": "Blanca asegura que se encontraba en Almacén en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_almacén",
+      "nombre_Blanca"
+    ]
+  },
+  {
+    "id": 7,
+    "tipo": "coartada",
+    "nombre": "Declaración: Blanca",
+    "texto": "Blanca asegura que se encontraba en Terraza en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_terraza",
+      "nombre_Blanca"
+    ]
+  },
+  {
+    "id": 8,
+    "tipo": "coartada",
+    "nombre": "Declaración: Blanca",
+    "texto": "Blanca asegura que se encontraba en Sala de Seguridad en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_sala_seguridad",
+      "nombre_Blanca"
+    ]
+  },
+  {
+    "id": 9,
+    "tipo": "coartada",
+    "nombre": "Declaración: Blanca",
+    "texto": "Blanca asegura que se encontraba en Pista de Baile en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_pista_baile",
+      "nombre_Blanca"
+    ]
+  },
+  {
+    "id": 10,
+    "tipo": "coartada",
+    "nombre": "Declaración: Javi",
+    "texto": "Javi asegura que se encontraba en Entrada en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_entrada",
+      "nombre_Javi"
+    ]
+  },
+  {
+    "id": 11,
+    "tipo": "coartada",
+    "nombre": "Declaración: Javi",
+    "texto": "Javi asegura que se encontraba en Baños en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_baños",
+      "nombre_Javi"
+    ]
+  },
+  {
+    "id": 12,
+    "tipo": "coartada",
+    "nombre": "Declaración: Javi",
+    "texto": "Javi asegura que se encontraba en Ropero en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_ropero",
+      "nombre_Javi"
+    ]
+  },
+  {
+    "id": 13,
+    "tipo": "coartada",
+    "nombre": "Declaración: Javi",
+    "texto": "Javi asegura que se encontraba en Reservados en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_reservados",
+      "nombre_Javi"
+    ]
+  },
+  {
+    "id": 14,
+    "tipo": "coartada",
+    "nombre": "Declaración: Javi",
+    "texto": "Javi asegura que se encontraba en Barra en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_barra",
+      "nombre_Javi"
+    ]
+  },
+  {
+    "id": 15,
+    "tipo": "coartada",
+    "nombre": "Declaración: Javi",
+    "texto": "Javi asegura que se encontraba en Almacén en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_almacén",
+      "nombre_Javi"
+    ]
+  },
+  {
+    "id": 16,
+    "tipo": "coartada",
+    "nombre": "Declaración: Javi",
+    "texto": "Javi asegura que se encontraba en Terraza en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_terraza",
+      "nombre_Javi"
+    ]
+  },
+  {
+    "id": 17,
+    "tipo": "coartada",
+    "nombre": "Declaración: Javi",
+    "texto": "Javi asegura que se encontraba en Sala de Seguridad en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_sala_seguridad",
+      "nombre_Javi"
+    ]
+  },
+  {
+    "id": 18,
+    "tipo": "coartada",
+    "nombre": "Declaración: Javi",
+    "texto": "Javi asegura que se encontraba en Pista de Baile en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_pista_baile",
+      "nombre_Javi"
+    ]
+  },
+  {
+    "id": 19,
+    "tipo": "coartada",
+    "nombre": "Declaración: Sergio",
+    "texto": "Sergio asegura que se encontraba en Entrada en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_entrada",
+      "nombre_Sergio"
+    ]
+  },
+  {
+    "id": 20,
+    "tipo": "coartada",
+    "nombre": "Declaración: Sergio",
+    "texto": "Sergio asegura que se encontraba en Baños en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_baños",
+      "nombre_Sergio"
+    ]
+  },
+  {
+    "id": 21,
+    "tipo": "coartada",
+    "nombre": "Declaración: Sergio",
+    "texto": "Sergio asegura que se encontraba en Ropero en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_ropero",
+      "nombre_Sergio"
+    ]
+  },
+  {
+    "id": 22,
+    "tipo": "coartada",
+    "nombre": "Declaración: Sergio",
+    "texto": "Sergio asegura que se encontraba en Reservados en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_reservados",
+      "nombre_Sergio"
+    ]
+  },
+  {
+    "id": 23,
+    "tipo": "coartada",
+    "nombre": "Declaración: Sergio",
+    "texto": "Sergio asegura que se encontraba en Barra en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_barra",
+      "nombre_Sergio"
+    ]
+  },
+  {
+    "id": 24,
+    "tipo": "coartada",
+    "nombre": "Declaración: Sergio",
+    "texto": "Sergio asegura que se encontraba en Almacén en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_almacén",
+      "nombre_Sergio"
+    ]
+  },
+  {
+    "id": 25,
+    "tipo": "coartada",
+    "nombre": "Declaración: Sergio",
+    "texto": "Sergio asegura que se encontraba en Terraza en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_terraza",
+      "nombre_Sergio"
+    ]
+  },
+  {
+    "id": 26,
+    "tipo": "coartada",
+    "nombre": "Declaración: Sergio",
+    "texto": "Sergio asegura que se encontraba en Sala de Seguridad en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_sala_seguridad",
+      "nombre_Sergio"
+    ]
+  },
+  {
+    "id": 27,
+    "tipo": "coartada",
+    "nombre": "Declaración: Sergio",
+    "texto": "Sergio asegura que se encontraba en Pista de Baile en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_pista_baile",
+      "nombre_Sergio"
+    ]
+  },
+  {
+    "id": 28,
+    "tipo": "coartada",
+    "nombre": "Declaración: Fernando",
+    "texto": "Fernando asegura que se encontraba en Entrada en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_entrada",
+      "nombre_Fernando"
+    ]
+  },
+  {
+    "id": 29,
+    "tipo": "coartada",
+    "nombre": "Declaración: Fernando",
+    "texto": "Fernando asegura que se encontraba en Baños en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_baños",
+      "nombre_Fernando"
+    ]
+  },
+  {
+    "id": 30,
+    "tipo": "coartada",
+    "nombre": "Declaración: Fernando",
+    "texto": "Fernando asegura que se encontraba en Ropero en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_ropero",
+      "nombre_Fernando"
+    ]
+  },
+  {
+    "id": 31,
+    "tipo": "coartada",
+    "nombre": "Declaración: Fernando",
+    "texto": "Fernando asegura que se encontraba en Reservados en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_reservados",
+      "nombre_Fernando"
+    ]
+  },
+  {
+    "id": 32,
+    "tipo": "coartada",
+    "nombre": "Declaración: Fernando",
+    "texto": "Fernando asegura que se encontraba en Barra en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_barra",
+      "nombre_Fernando"
+    ]
+  },
+  {
+    "id": 33,
+    "tipo": "coartada",
+    "nombre": "Declaración: Fernando",
+    "texto": "Fernando asegura que se encontraba en Almacén en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_almacén",
+      "nombre_Fernando"
+    ]
+  },
+  {
+    "id": 34,
+    "tipo": "coartada",
+    "nombre": "Declaración: Fernando",
+    "texto": "Fernando asegura que se encontraba en Terraza en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_terraza",
+      "nombre_Fernando"
+    ]
+  },
+  {
+    "id": 35,
+    "tipo": "coartada",
+    "nombre": "Declaración: Fernando",
+    "texto": "Fernando asegura que se encontraba en Sala de Seguridad en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_sala_seguridad",
+      "nombre_Fernando"
+    ]
+  },
+  {
+    "id": 36,
+    "tipo": "coartada",
+    "nombre": "Declaración: Fernando",
+    "texto": "Fernando asegura que se encontraba en Pista de Baile en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_pista_baile",
+      "nombre_Fernando"
+    ]
+  },
+  {
+    "id": 37,
+    "tipo": "coartada",
+    "nombre": "Declaración: Alberto",
+    "texto": "Alberto asegura que se encontraba en Entrada en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_entrada",
+      "nombre_Alberto"
+    ]
+  },
+  {
+    "id": 38,
+    "tipo": "coartada",
+    "nombre": "Declaración: Alberto",
+    "texto": "Alberto asegura que se encontraba en Baños en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_baños",
+      "nombre_Alberto"
+    ]
+  },
+  {
+    "id": 39,
+    "tipo": "coartada",
+    "nombre": "Declaración: Alberto",
+    "texto": "Alberto asegura que se encontraba en Ropero en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_ropero",
+      "nombre_Alberto"
+    ]
+  },
+  {
+    "id": 40,
+    "tipo": "coartada",
+    "nombre": "Declaración: Alberto",
+    "texto": "Alberto asegura que se encontraba en Reservados en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_reservados",
+      "nombre_Alberto"
+    ]
+  },
+  {
+    "id": 41,
+    "tipo": "coartada",
+    "nombre": "Declaración: Alberto",
+    "texto": "Alberto asegura que se encontraba en Barra en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_barra",
+      "nombre_Alberto"
+    ]
+  },
+  {
+    "id": 42,
+    "tipo": "coartada",
+    "nombre": "Declaración: Alberto",
+    "texto": "Alberto asegura que se encontraba en Almacén en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_almacén",
+      "nombre_Alberto"
+    ]
+  },
+  {
+    "id": 43,
+    "tipo": "coartada",
+    "nombre": "Declaración: Alberto",
+    "texto": "Alberto asegura que se encontraba en Terraza en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_terraza",
+      "nombre_Alberto"
+    ]
+  },
+  {
+    "id": 44,
+    "tipo": "coartada",
+    "nombre": "Declaración: Alberto",
+    "texto": "Alberto asegura que se encontraba en Sala de Seguridad en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_sala_seguridad",
+      "nombre_Alberto"
+    ]
+  },
+  {
+    "id": 45,
+    "tipo": "coartada",
+    "nombre": "Declaración: Alberto",
+    "texto": "Alberto asegura que se encontraba en Pista de Baile en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_pista_baile",
+      "nombre_Alberto"
+    ]
+  },
+  {
+    "id": 46,
+    "tipo": "coartada",
+    "nombre": "Declaración: Edu",
+    "texto": "Edu asegura que se encontraba en Entrada en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_entrada",
+      "nombre_Edu"
+    ]
+  },
+  {
+    "id": 47,
+    "tipo": "coartada",
+    "nombre": "Declaración: Edu",
+    "texto": "Edu asegura que se encontraba en Baños en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_baños",
+      "nombre_Edu"
+    ]
+  },
+  {
+    "id": 48,
+    "tipo": "coartada",
+    "nombre": "Declaración: Edu",
+    "texto": "Edu asegura que se encontraba en Ropero en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_ropero",
+      "nombre_Edu"
+    ]
+  },
+  {
+    "id": 49,
+    "tipo": "coartada",
+    "nombre": "Declaración: Edu",
+    "texto": "Edu asegura que se encontraba en Reservados en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_reservados",
+      "nombre_Edu"
+    ]
+  },
+  {
+    "id": 50,
+    "tipo": "coartada",
+    "nombre": "Declaración: Edu",
+    "texto": "Edu asegura que se encontraba en Barra en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_barra",
+      "nombre_Edu"
+    ]
+  },
+  {
+    "id": 51,
+    "tipo": "coartada",
+    "nombre": "Declaración: Edu",
+    "texto": "Edu asegura que se encontraba en Almacén en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_almacén",
+      "nombre_Edu"
+    ]
+  },
+  {
+    "id": 52,
+    "tipo": "coartada",
+    "nombre": "Declaración: Edu",
+    "texto": "Edu asegura que se encontraba en Terraza en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_terraza",
+      "nombre_Edu"
+    ]
+  },
+  {
+    "id": 53,
+    "tipo": "coartada",
+    "nombre": "Declaración: Edu",
+    "texto": "Edu asegura que se encontraba en Sala de Seguridad en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_sala_seguridad",
+      "nombre_Edu"
+    ]
+  },
+  {
+    "id": 54,
+    "tipo": "coartada",
+    "nombre": "Declaración: Edu",
+    "texto": "Edu asegura que se encontraba en Pista de Baile en el momento del asesinato.",
+    "valor": 1,
+    "tags": [
+      "fin_en_pista_baile",
+      "nombre_Edu"
+    ]
+  },
+  {
+    "id": 55,
+    "tipo": "bloqueo_paso",
+    "nombre": "Informe de Seguridad",
+    "texto": "Las cámaras confirman que nadie cruzó entre Pista de Baile y Baños.",
+    "valor": 3,
+    "tags": [
+      "bloqueo_paso_pista_baile_baños"
+    ]
+  },
+  {
+    "id": 56,
+    "tipo": "bloqueo_paso",
+    "nombre": "Informe de Seguridad",
+    "texto": "Las cámaras confirman que nadie cruzó entre Pista de Baile y Ropero.",
+    "valor": 1,
+    "tags": [
+      "bloqueo_paso_pista_baile_ropero"
+    ]
+  },
+  {
+    "id": 57,
+    "tipo": "bloqueo_paso",
+    "nombre": "Informe de Seguridad",
+    "texto": "Las cámaras confirman que nadie cruzó entre Pista de Baile y Reservados.",
+    "valor": 1,
+    "tags": [
+      "bloqueo_paso_pista_baile_reservados"
+    ]
+  },
+  {
+    "id": 58,
+    "tipo": "bloqueo_paso",
+    "nombre": "Informe de Seguridad",
+    "texto": "Las cámaras confirman que nadie cruzó entre Pista de Baile y Sala de Seguridad.",
+    "valor": 1,
+    "tags": [
+      "bloqueo_paso_pista_baile_sala_seguridad"
+    ]
+  },
+  {
+    "id": 59,
+    "tipo": "bloqueo_paso",
+    "nombre": "Informe de Seguridad",
+    "texto": "Las cámaras confirman que nadie cruzó entre Pista de Baile y Terraza.",
+    "valor": 1,
+    "tags": [
+      "bloqueo_paso_pista_baile_terraza"
+    ]
+  },
+  {
+    "id": 60,
+    "tipo": "bloqueo_paso",
+    "nombre": "Informe de Seguridad",
+    "texto": "Las cámaras confirman que nadie cruzó entre Pista de Baile y Barra.",
+    "valor": 1,
+    "tags": [
+      "bloqueo_paso_pista_baile_barra"
+    ]
+  },
+  {
+    "id": 61,
+    "tipo": "bloqueo_paso",
+    "nombre": "Informe de Seguridad",
+    "texto": "Las cámaras confirman que nadie cruzó entre Terraza y Sala de Seguridad.",
+    "valor": 1,
+    "tags": [
+      "bloqueo_paso_pista_baile_sala_seguridad"
+    ]
+  },
+  {
+    "id": 62,
+    "tipo": "bloqueo_paso",
+    "nombre": "Informe de Seguridad",
+    "texto": "Las cámaras confirman que nadie cruzó entre Terraza y Barra.",
+    "valor": 1,
+    "tags": [
+      "bloqueo_paso_pista_baile_barra"
+    ]
+  },
+  {
+    "id": 63,
+    "tipo": "bloqueo_paso",
+    "nombre": "Informe de Seguridad",
+    "texto": "Las cámaras confirman que nadie cruzó entre Terraza y Almacén.",
+    "valor": 1,
+    "tags": [
+      "bloqueo_paso_pista_baile_almacen"
+    ]
+  },
+  {
+    "id": 64,
+    "tipo": "bloqueo_paso",
+    "nombre": "Informe de Seguridad",
+    "texto": "Las cámaras confirman que nadie cruzó entre Barra y Almacén.",
+    "valor": 1,
+    "tags": [
+      "bloqueo_paso_barra_almacen"
+    ]
+  },
+  {
+    "id": 65,
+    "tipo": "bloqueo_paso",
+    "nombre": "Informe de Seguridad",
+    "texto": "Las cámaras confirman que nadie cruzó entre Almacén y Baños.",
+    "valor": 1,
+    "tags": [
+      "bloqueo_paso_almacen_baños"
+    ]
+  },
+  {
+    "id": 66,
+    "tipo": "bloqueo_paso",
+    "nombre": "Informe de Seguridad",
+    "texto": "Las cámaras confirman que nadie cruzó entre Sala de Seguridad y Reservados.",
+    "valor": 1,
+    "tags": [
+      "bloqueo_paso_sala_seguridad_reservados"
+    ]
+  },
+  {
+    "id": 67,
+    "tipo": "bloqueo_paso",
+    "nombre": "Informe de Seguridad",
+    "texto": "Las cámaras confirman que nadie cruzó entre Reservados y Ropero.",
+    "valor": 1,
+    "tags": [
+      "bloqueo_paso_reservados_ropero"
+    ]
+  },
+  {
+    "id": 68,
+    "tipo": "lugar_limpio",
+    "nombre": "Registro Policial",
+    "texto": "La policía confirma que no falta ningún objeto en Entrada.",
+    "valor": 3,
+    "tags": [
+      "limpio_entrada"
+    ]
+  },
+  {
+    "id": 69,
+    "tipo": "lugar_limpio",
+    "nombre": "Registro Policial",
+    "texto": "La policía confirma que no falta ningún objeto en Baños.",
+    "valor": 3,
+    "tags": [
+      "limpio_baños"
+    ]
+  },
+  {
+    "id": 70,
+    "tipo": "lugar_limpio",
+    "nombre": "Registro Policial",
+    "texto": "La policía confirma que no falta ningún objeto en Ropero.",
+    "valor": 3,
+    "tags": [
+      "limpio_ropero"
+    ]
+  },
+  {
+    "id": 71,
+    "tipo": "lugar_limpio",
+    "nombre": "Registro Policial",
+    "texto": "La policía confirma que no falta ningún objeto en Reservados.",
+    "valor": 3,
+    "tags": [
+      "limpio_reservados"
+    ]
+  },
+  {
+    "id": 72,
+    "tipo": "lugar_limpio",
+    "nombre": "Registro Policial",
+    "texto": "La policía confirma que no falta ningún objeto en Barra.",
+    "valor": 3,
+    "tags": [
+      "limpio_barra"
+    ]
+  },
+  {
+    "id": 73,
+    "tipo": "lugar_limpio",
+    "nombre": "Registro Policial",
+    "texto": "La policía confirma que no falta ningún objeto en Almacén.",
+    "valor": 3,
+    "tags": [
+      "limpio_almacen"
+    ]
+  },
+  {
+    "id": 74,
+    "tipo": "lugar_limpio",
+    "nombre": "Registro Policial",
+    "texto": "La policía confirma que no falta ningún objeto en Terraza.",
+    "valor": 3,
+    "tags": [
+      "limpio_terraza"
+    ]
+  },
+  {
+    "id": 75,
+    "tipo": "lugar_limpio",
+    "nombre": "Registro Policial",
+    "texto": "La policía confirma que no falta ningún objeto en Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "limpio_sala_seguridad"
+    ]
+  },
+  {
+    "id": 76,
+    "tipo": "lugar_limpio",
+    "nombre": "Registro Policial",
+    "texto": "La policía confirma que no falta ningún objeto en Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "limpio_pista_baile"
+    ]
+  },
+  {
+    "id": 77,
+    "tipo": "descarte_arma",
+    "nombre": "Informe Forense",
+    "texto": "El arma del crimen NO fue: Botella de Recompensa.",
+    "valor": 1,
+    "tags": [
+      "no_arma_botella_de_recompensa"
+    ]
+  },
+  {
+    "id": 78,
+    "tipo": "descarte_arma",
+    "nombre": "Informe Forense",
+    "texto": "El arma del crimen NO fue: Balón de VolleyBall.",
+    "valor": 1,
+    "tags": [
+      "no_arma_balón_de_volleyball"
+    ]
+  },
+  {
+    "id": 79,
+    "tipo": "descarte_arma",
+    "nombre": "Informe Forense",
+    "texto": "El arma del crimen NO fue: Polla de Plástico.",
+    "valor": 1,
+    "tags": [
+      "no_arma_polla_de_plástico"
+    ]
+  },
+  {
+    "id": 80,
+    "tipo": "descarte_arma",
+    "nombre": "Informe Forense",
+    "texto": "El arma del crimen NO fue: Hielo del cubata.",
+    "valor": 1,
+    "tags": [
+      "no_arma_hielo_del_cubata"
+    ]
+  },
+  {
+    "id": 81,
+    "tipo": "descarte_arma",
+    "nombre": "Informe Forense",
+    "texto": "El arma del crimen NO fue: Durum.",
+    "valor": 1,
+    "tags": [
+      "no_arma_botella_de_durum"
+    ]
+  },
+  {
+    "id": 82,
+    "tipo": "descarte_arma",
+    "nombre": "Informe Forense",
+    "texto": "El arma del crimen NO fue: Un Pelotazo.",
+    "valor": 1,
+    "tags": [
+      "no_arma_un_pelotazo"
+    ]
+  },
+  {
+    "id": 83,
+    "tipo": "descarte_arma",
+    "nombre": "Informe Forense",
+    "texto": "El arma del crimen NO fue: Zurraspa.",
+    "valor": 1,
+    "tags": [
+      "no_arma_zurraspa"
+    ]
+  },
+  {
+    "id": 84,
+    "tipo": "descarte_arma",
+    "nombre": "Informe Forense",
+    "texto": "El arma del crimen NO fue: Condón Usado.",
+    "valor": 1,
+    "tags": [
+      "no_arma_condon_usado"
+    ]
+  },
+  {
+    "id": 85,
+    "tipo": "descarte_arma",
+    "nombre": "Informe Forense",
+    "texto": "El arma del crimen NO fue: Pedo.",
+    "valor": 1,
+    "tags": [
+      "no_arma_pedo"
+    ]
+  },
+  {
+    "id": 86,
+    "tipo": "descarte_arma",
+    "nombre": "Informe Forense",
+    "texto": "El arma del crimen NO fue: Lefada de Gustavo.",
+    "valor": 1,
+    "tags": [
+      "no_arma_lefada_de_gustavo"
+    ]
+  },
+  {
+    "id": 87,
+    "tipo": "descarte_arma",
+    "nombre": "Informe Forense",
+    "texto": "El arma del crimen NO fue: Sobaco Sudado.",
+    "valor": 1,
+    "tags": [
+      "no_arma_sobaco_sudado"
+    ]
+  },
+  {
+    "id": 88,
+    "tipo": "descarte_arma",
+    "nombre": "Informe Forense",
+    "texto": "El arma del crimen NO fue: Un vello púbico.",
+    "valor": 1,
+    "tags": [
+      "no_arma_un_vello_pubico"
+    ]
+  },
+  {
+    "id": 89,
+    "tipo": "descarte_arma",
+    "nombre": "Informe Forense",
+    "texto": "El arma del crimen NO fue: Nude de la Bellido.",
+    "valor": 1,
+    "tags": [
+      "no_arma_nude_de_la_bellido"
+    ]
+  },
+  {
+    "id": 90,
+    "tipo": "descarte_arma",
+    "nombre": "Informe Forense",
+    "texto": "El arma del crimen NO fue: Beso de la Nana.",
+    "valor": 1,
+    "tags": [
+      "no_arma_beso_de_la_nana"
+    ]
+  },
+  {
+    "id": 91,
+    "tipo": "descarte_arma",
+    "nombre": "Informe Forense",
+    "texto": "El arma del crimen NO fue: Uña del Pie.",
+    "valor": 1,
+    "tags": [
+      "no_arma_una_uña_del_pie"
+    ]
+  },
+  {
+    "id": 92,
+    "tipo": "descarte_arma",
+    "nombre": "Informe Forense",
+    "texto": "El arma del crimen NO fue: Clausulazo.",
+    "valor": 1,
+    "tags": [
+      "no_arma_clausulazo"
+    ]
+  },
+  {
+    "id": 93,
+    "tipo": "descarte_arma",
+    "nombre": "Informe Forense",
+    "texto": "El arma del crimen NO fue: Cigarro.",
+    "valor": 1,
+    "tags": [
+      "no_arma_cigarro"
+    ]
+  },
+  {
+    "id": 94,
+    "tipo": "descarte_arma",
+    "nombre": "Informe Forense",
+    "texto": "El arma del crimen NO fue: Mechero Trucado.",
+    "valor": 1,
+    "tags": [
+      "no_arma_mechero_trucado"
+    ]
+  },
+  {
+    "id": 95,
+    "tipo": "descarte_arma",
+    "nombre": "Informe Forense",
+    "texto": "El arma del crimen NO fue: Eructo en la Oreja.",
+    "valor": 1,
+    "tags": [
+      "no_arma_eructo_en_la_oreja"
+    ]
+  },
+  {
+    "id": 96,
+    "tipo": "descarte_arma",
+    "nombre": "Informe Forense",
+    "texto": "El arma del crimen NO fue: Montapuercos.",
+    "valor": 1,
+    "tags": [
+      "no_arma_montapuercos"
+    ]
+  },
+  {
+    "id": 97,
+    "tipo": "informe_categoria",
+    "nombre": "Análisis de Heridas",
+    "texto": "Se descartan armas de tipo Contundentes.",
+    "valor": 3,
+    "tags": [
+      "no_categoria_Contundentes"
+    ]
+  },
+  {
+    "id": 98,
+    "tipo": "informe_categoria",
+    "nombre": "Análisis de Heridas",
+    "texto": "Se descartan armas de tipo Venenos.",
+    "valor": 3,
+    "tags": [
+      "no_categoria_Venenos"
+    ]
+  },
+  {
+    "id": 99,
+    "tipo": "informe_categoria",
+    "nombre": "Análisis de Heridas",
+    "texto": "Se descartan armas de tipo Asfixiantes.",
+    "valor": 3,
+    "tags": [
+      "no_categoria_Asfixiantes"
+    ]
+  },
+  {
+    "id": 100,
+    "tipo": "informe_categoria",
+    "nombre": "Análisis de Heridas",
+    "texto": "Se descartan armas de tipo Colapso.",
+    "valor": 3,
+    "tags": [
+      "no_categoria_Colapso"
+    ]
+  },
+  {
+    "id": 101,
+    "tipo": "informe_categoria",
+    "nombre": "Análisis de Heridas",
+    "texto": "Se descartan armas de tipo Armas de Fuego.",
+    "valor": 3,
+    "tags": [
+      "no_categoria_Armas_de_Fuego"
+    ]
+  },
+  {
+    "id": 102,
+    "tipo": "sintoma_negativo",
+    "nombre": "Autopsia",
+    "texto": "El cuerpo NO presenta signos de Abundante Sangre.",
+    "valor": 3,
+    "tags": [
+      "no_sintoma_abundante_sangre"
+    ]
+  },
+  {
+    "id": 103,
+    "tipo": "sintoma_negativo",
+    "nombre": "Autopsia",
+    "texto": "El cuerpo NO presenta signos de Contusión Letal.",
+    "valor": 3,
+    "tags": [
+      "no_sintoma_contusión_letal"
+    ]
+  },
+  {
+    "id": 104,
+    "tipo": "sintoma_negativo",
+    "nombre": "Autopsia",
+    "texto": "El cuerpo NO presenta signos de Restos de Pólvora.",
+    "valor": 3,
+    "tags": [
+      "no_sintoma_restos_de_pólvora"
+    ]
+  },
+  {
+    "id": 105,
+    "tipo": "sintoma_negativo",
+    "nombre": "Autopsia",
+    "texto": "El cuerpo NO presenta signos de Envenenamiento.",
+    "valor": 3,
+    "tags": [
+      "no_sintoma_envenenamiento"
+    ]
+  },
+  {
+    "id": 106,
+    "tipo": "sintoma_negativo",
+    "nombre": "Autopsia",
+    "texto": "El cuerpo NO presenta signos de Asfixia.",
+    "valor": 3,
+    "tags": [
+      "no_sintoma_asfixia"
+    ]
+  },
+  {
+    "id": 107,
+    "tipo": "sintoma_negativo",
+    "nombre": "Autopsia",
+    "texto": "El cuerpo NO presenta signos de Olores Fuertes.",
+    "valor": 3,
+    "tags": [
+      "no_sintoma_olores_fuertes"
+    ]
+  },
+  {
+    "id": 108,
+    "tipo": "sintoma_negativo",
+    "nombre": "Autopsia",
+    "texto": "El cuerpo NO presenta signos de Quemaduras.",
+    "valor": 3,
+    "tags": [
+      "no_sintoma_quemaduras"
+    ]
+  },
+  {
+    "id": 109,
+    "tipo": "sintoma_negativo",
+    "nombre": "Autopsia",
+    "texto": "El cuerpo NO presenta signos de Shock.",
+    "valor": 3,
+    "tags": [
+      "no_sintoma_shock"
+    ]
+  },
+  {
+    "id": 110,
+    "tipo": "sintoma_positivo",
+    "nombre": "Autopsia",
+    "texto": "El cuerpo SI presenta signos de Abundante Sangre.",
+    "valor": 3,
+    "tags": [
+      "si_sintoma_abundante_sangre"
+    ]
+  },
+  {
+    "id": 111,
+    "tipo": "sintoma_positivo",
+    "nombre": "Autopsia",
+    "texto": "El cuerpo SI presenta signos de Contusión Letal.",
+    "valor": 3,
+    "tags": [
+      "si_sintoma_contusión_letal"
+    ]
+  },
+  {
+    "id": 112,
+    "tipo": "sintoma_positivo",
+    "nombre": "Autopsia",
+    "texto": "El cuerpo SI presenta signos de Restos de Pólvora.",
+    "valor": 3,
+    "tags": [
+      "si_sintoma_restos_de_pólvora"
+    ]
+  },
+  {
+    "id": 113,
+    "tipo": "sintoma_positivo",
+    "nombre": "Autopsia",
+    "texto": "El cuerpo SI presenta signos de Envenenamiento.",
+    "valor": 3,
+    "tags": [
+      "si_sintoma_envenenamiento"
+    ]
+  },
+  {
+    "id": 114,
+    "tipo": "sintoma_positivo",
+    "nombre": "Autopsia",
+    "texto": "El cuerpo SI presenta signos de Asfixia.",
+    "valor": 3,
+    "tags": [
+      "si_sintoma_asfixia"
+    ]
+  },
+  {
+    "id": 115,
+    "tipo": "sintoma_positivo",
+    "nombre": "Autopsia",
+    "texto": "El cuerpo SI presenta signos de Olores Fuertes.",
+    "valor": 3,
+    "tags": [
+      "si_sintoma_olores_fuertes"
+    ]
+  },
+  {
+    "id": 116,
+    "tipo": "sintoma_positivo",
+    "nombre": "Autopsia",
+    "texto": "El cuerpo SI presenta signos de Quemaduras.",
+    "valor": 3,
+    "tags": [
+      "si_sintoma_quemaduras"
+    ]
+  },
+  {
+    "id": 117,
+    "tipo": "sintoma_positivo",
+    "nombre": "Autopsia",
+    "texto": "El cuerpo SI presenta signos de Shock.",
+    "valor": 3,
+    "tags": [
+      "si_sintoma_shock"
+    ]
+  },
+  {
+    "id": 118,
+    "tipo": "descarte_motivo",
+    "nombre": "Investigación Policial",
+    "texto": "Los informes descartan 'Una mujer' como móvil del crimen.",
+    "valor": 3,
+    "tags": [
+      "no_motivo_una_mujer"
+    ]
+  },
+  {
+    "id": 119,
+    "tipo": "descarte_motivo",
+    "nombre": "Investigación Policial",
+    "texto": "Los informes descartan 'Venganza' como móvil del crimen.",
+    "valor": 3,
+    "tags": [
+      "no_motivo_venganza"
+    ]
+  },
+  {
+    "id": 120,
+    "tipo": "descarte_motivo",
+    "nombre": "Investigación Policial",
+    "texto": "Los informes descartan 'Un bizum' como móvil del crimen.",
+    "valor": 3,
+    "tags": [
+      "no_motivo_un_bizum"
+    ]
+  },
+  {
+    "id": 121,
+    "tipo": "descarte_motivo",
+    "nombre": "Investigación Policial",
+    "texto": "Los informes descartan 'Apuestas' como móvil del crimen.",
+    "valor": 3,
+    "tags": [
+      "no_motivo_apuestas"
+    ]
+  },
+  {
+    "id": 122,
+    "tipo": "descarte_motivo",
+    "nombre": "Investigación Policial",
+    "texto": "Los informes descartan 'Un Cigarro' como móvil del crimen.",
+    "valor": 3,
+    "tags": [
+      "no_motivo_un_cigarro"
+    ]
+  },
+  {
+    "id": 123,
+    "tipo": "descarte_motivo",
+    "nombre": "Investigación Policial",
+    "texto": "Los informes descartan 'Borrachera' como móvil del crimen.",
+    "valor": 3,
+    "tags": [
+      "no_motivo_borrachera"
+    ]
+  },
+  {
+    "id": 124,
+    "tipo": "coartada_union",
+    "nombre": "Coartada de Unión",
+    "texto": "Blanca dice que estaba con Javi en el momento del asesinato",
+    "valor": 1,
+    "tags": [
+      "coartada_blanca_con_javi"
+    ]
+  },
+  {
+    "id": 125,
+    "tipo": "coartada_union",
+    "nombre": "Coartada de Unión",
+    "texto": "Blanca dice que estaba con Sergio en el momento del asesinato",
+    "valor": 1,
+    "tags": [
+      "coartada_blanca_con_sergio"
+    ]
+  },
+  {
+    "id": 126,
+    "tipo": "coartada_union",
+    "nombre": "Coartada de Unión",
+    "texto": "Blanca dice que estaba con Fer en el momento del asesinato",
+    "valor": 1,
+    "tags": [
+      "coartada_blanca_con_fer"
+    ]
+  },
+  {
+    "id": 127,
+    "tipo": "coartada_union",
+    "nombre": "Coartada de Unión",
+    "texto": "Blanca dice que estaba con Alberto en el momento del asesinato",
+    "valor": 1,
+    "tags": [
+      "coartada_blanca_con_alberto"
+    ]
+  },
+  {
+    "id": 128,
+    "tipo": "coartada_union",
+    "nombre": "Coartada de Unión",
+    "texto": "Blanca dice que estaba con Edu en el momento del asesinato",
+    "valor": 1,
+    "tags": [
+      "coartada_blanca_con_edu"
+    ]
+  },
+  {
+    "id": 129,
+    "tipo": "coartada_union",
+    "nombre": "Coartada de Unión",
+    "texto": "Javi dice que estaba con Sergio en el momento del asesinato",
+    "valor": 1,
+    "tags": [
+      "coartada_javi_con_sergio"
+    ]
+  },
+  {
+    "id": 130,
+    "tipo": "coartada_union",
+    "nombre": "Coartada de Unión",
+    "texto": "Javi dice que estaba con Fer en el momento del asesinato",
+    "valor": 1,
+    "tags": [
+      "coartada_javi_con_fer"
+    ]
+  },
+  {
+    "id": 131,
+    "tipo": "coartada_union",
+    "nombre": "Coartada de Unión",
+    "texto": "Javi dice que estaba con Alberto en el momento del asesinato",
+    "valor": 1,
+    "tags": [
+      "coartada_javi_con_alberto"
+    ]
+  },
+  {
+    "id": 132,
+    "tipo": "coartada_union",
+    "nombre": "Coartada de Unión",
+    "texto": "Javi dice que estaba con Edu en el momento del asesinato",
+    "valor": 1,
+    "tags": [
+      "coartada_javi_con_edu"
+    ]
+  },
+  {
+    "id": 133,
+    "tipo": "coartada_union",
+    "nombre": "Coartada de Unión",
+    "texto": "Sergio dice que estaba con Fer en el momento del asesinato",
+    "valor": 1,
+    "tags": [
+      "coartada_sergio_con_fer"
+    ]
+  },
+  {
+    "id": 134,
+    "tipo": "coartada_union",
+    "nombre": "Coartada de Unión",
+    "texto": "Sergio dice que estaba con Alberto en el momento del asesinato",
+    "valor": 1,
+    "tags": [
+      "coartada_sergio_con_alberto"
+    ]
+  },
+  {
+    "id": 135,
+    "tipo": "coartada_union",
+    "nombre": "Coartada de Unión",
+    "texto": "Sergio dice que estaba con Edu en el momento del asesinato",
+    "valor": 1,
+    "tags": [
+      "coartada_sergio_con_edu"
+    ]
+  },
+  {
+    "id": 136,
+    "tipo": "coartada_union",
+    "nombre": "Coartada de Unión",
+    "texto": "Fer dice que estaba con Alberto en el momento del asesinato",
+    "valor": 1,
+    "tags": [
+      "coartada_fer_con_alberto"
+    ]
+  },
+  {
+    "id": 137,
+    "tipo": "coartada_union",
+    "nombre": "Coartada de Unión",
+    "texto": "Fer dice que estaba con Edu en el momento del asesinato",
+    "valor": 1,
+    "tags": [
+      "coartada_fer_con_edu"
+    ]
+  },
+  {
+    "id": 138,
+    "tipo": "coartada_union",
+    "nombre": "Coartada de Unión",
+    "texto": "Alberto dice que estaba con Edu en el momento del asesinato",
+    "valor": 1,
+    "tags": [
+      "coartada_alberto_con_edu"
+    ]
+  },
+  {
+    "id": 139,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Blanca a Sergio",
+    "texto": "Blanca declara: 'Sospecho que Sergio participó movido por Una mujer'.",
+    "valor": 2,
+    "tags": [
+      "acusador_blanca",
+      "acusado_sergio",
+      "motivo_una_mujer"
+    ]
+  },
+  {
+    "id": 140,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Blanca a Sergio",
+    "texto": "Blanca declara: 'Sospecho que Sergio participó movido por Venganza'.",
+    "valor": 2,
+    "tags": [
+      "acusador_blanca",
+      "acusado_sergio",
+      "motivo_venganza"
+    ]
+  },
+  {
+    "id": 141,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Blanca a Sergio",
+    "texto": "Blanca declara: 'Sospecho que Sergio participó movido por Un bizum'.",
+    "valor": 2,
+    "tags": [
+      "acusador_blanca",
+      "acusado_sergio",
+      "motivo_un_bizum"
+    ]
+  },
+  {
+    "id": 142,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Blanca a Edu",
+    "texto": "Blanca declara: 'Sospecho que Edu participó movido por Un cigarro'.",
+    "valor": 2,
+    "tags": [
+      "acusador_blanca",
+      "acusado_edu",
+      "motivo_un_cigarro"
+    ]
+  },
+  {
+    "id": 143,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Blanca a Edu",
+    "texto": "Blanca declara: 'Sospecho que Edu participó movido por Borrachera'.",
+    "valor": 2,
+    "tags": [
+      "acusador_blanca",
+      "acusado_edu",
+      "motivo_borrachera"
+    ]
+  },
+  {
+    "id": 144,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Blanca a Edu",
+    "texto": "Blanca declara: 'Sospecho que Edu participó movido por Un bizum'.",
+    "valor": 2,
+    "tags": [
+      "acusador_blanca",
+      "acusado_edu",
+      "motivo_un_bizum"
+    ]
+  },
+  {
+    "id": 145,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Blanca a Alberto",
+    "texto": "Blanca declara: 'Sospecho que Alberto participó movido por Apuestas'.",
+    "valor": 2,
+    "tags": [
+      "acusador_blanca",
+      "acusado_alberto",
+      "motivo_apuestas"
+    ]
+  },
+  {
+    "id": 146,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Blanca a Alberto",
+    "texto": "Blanca declara: 'Sospecho que Alberto participó movido por Borrachera'.",
+    "valor": 2,
+    "tags": [
+      "acusador_blanca",
+      "acusado_alberto",
+      "motivo_borrachera"
+    ]
+  },
+  {
+    "id": 147,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Blanca a Alberto",
+    "texto": "Blanca declara: 'Sospecho que Alberto participó movido por Una mujer'.",
+    "valor": 2,
+    "tags": [
+      "acusador_blanca",
+      "acusado_alberto",
+      "motivo_una_mujer"
+    ]
+  },
+  {
+    "id": 148,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Blanca a Fernando",
+    "texto": "Blanca declara: 'Sospecho que Fernando participó movido por Un bizum'.",
+    "valor": 2,
+    "tags": [
+      "acusador_blanca",
+      "acusado_fernando",
+      "motivo_un_bizum"
+    ]
+  },
+  {
+    "id": 149,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Blanca a Fernando",
+    "texto": "Blanca declara: 'Sospecho que Fernando participó movido por Apuestas'.",
+    "valor": 2,
+    "tags": [
+      "acusador_blanca",
+      "acusado_fernando",
+      "motivo_apuestas"
+    ]
+  },
+  {
+    "id": 150,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Blanca a Fernando",
+    "texto": "Blanca declara: 'Sospecho que Fernando participó movido por Venganza'.",
+    "valor": 2,
+    "tags": [
+      "acusador_blanca",
+      "acusado_fernando",
+      "motivo_venganza"
+    ]
+  },
+  {
+    "id": 151,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Blanca a Javi",
+    "texto": "Blanca declara: 'Sospecho que Javi participó movido por Venganza'.",
+    "valor": 2,
+    "tags": [
+      "acusador_blanca",
+      "acusado_javi",
+      "motivo_venganza"
+    ]
+  },
+  {
+    "id": 152,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Blanca a Javi",
+    "texto": "Blanca declara: 'Sospecho que Javi participó movido por Apuestas'.",
+    "valor": 2,
+    "tags": [
+      "acusador_blanca",
+      "acusado_javi",
+      "motivo_apuestas"
+    ]
+  },
+  {
+    "id": 153,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Blanca a Javi",
+    "texto": "Blanca declara: 'Sospecho que Javi participó movido por Un cigarro'.",
+    "valor": 2,
+    "tags": [
+      "acusador_blanca",
+      "acusado_javi",
+      "motivo_un_cigarro"
+    ]
+  },
+  {
+    "id": 154,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Sergio a Blanca",
+    "texto": "Sergio declara: 'Sospecho que Blanca participó movido por Borrachera'.",
+    "valor": 2,
+    "tags": [
+      "acusador_sergio",
+      "acusado_blanca",
+      "motivo_borrachera"
+    ]
+  },
+  {
+    "id": 155,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Sergio a Blanca",
+    "texto": "Sergio declara: 'Sospecho que Blanca participó movido por Una mujer'.",
+    "valor": 2,
+    "tags": [
+      "acusador_sergio",
+      "acusado_blanca",
+      "motivo_una_mujer"
+    ]
+  },
+  {
+    "id": 156,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Sergio a Blanca",
+    "texto": "Sergio declara: 'Sospecho que Blanca participó movido por Un cigarro'.",
+    "valor": 2,
+    "tags": [
+      "acusador_sergio",
+      "acusado_blanca",
+      "motivo_un_cigarro"
+    ]
+  },
+  {
+    "id": 157,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Sergio a Edu",
+    "texto": "Sergio declara: 'Sospecho que Edu participó movido por Un cigarro'.",
+    "valor": 2,
+    "tags": [
+      "acusador_sergio",
+      "acusado_edu",
+      "motivo_un_cigarro"
+    ]
+  },
+  {
+    "id": 158,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Sergio a Edu",
+    "texto": "Sergio declara: 'Sospecho que Edu participó movido por Borrachera'.",
+    "valor": 2,
+    "tags": [
+      "acusador_sergio",
+      "acusado_edu",
+      "motivo_borrachera"
+    ]
+  },
+  {
+    "id": 159,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Sergio a Edu",
+    "texto": "Sergio declara: 'Sospecho que Edu participó movido por Un bizum'.",
+    "valor": 2,
+    "tags": [
+      "acusador_sergio",
+      "acusado_edu",
+      "motivo_un_bizum"
+    ]
+  },
+  {
+    "id": 160,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Sergio a Alberto",
+    "texto": "Sergio declara: 'Sospecho que Alberto participó movido por Apuestas'.",
+    "valor": 2,
+    "tags": [
+      "acusador_sergio",
+      "acusado_alberto",
+      "motivo_apuestas"
+    ]
+  },
+  {
+    "id": 161,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Sergio a Alberto",
+    "texto": "Sergio declara: 'Sospecho que Alberto participó movido por Borrachera'.",
+    "valor": 2,
+    "tags": [
+      "acusador_sergio",
+      "acusado_alberto",
+      "motivo_borrachera"
+    ]
+  },
+  {
+    "id": 162,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Sergio a Alberto",
+    "texto": "Sergio declara: 'Sospecho que Alberto participó movido por Una mujer'.",
+    "valor": 2,
+    "tags": [
+      "acusador_sergio",
+      "acusado_alberto",
+      "motivo_una_mujer"
+    ]
+  },
+  {
+    "id": 163,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Sergio a Fernando",
+    "texto": "Sergio declara: 'Sospecho que Fernando participó movido por Un bizum'.",
+    "valor": 2,
+    "tags": [
+      "acusador_sergio",
+      "acusado_fernando",
+      "motivo_un_bizum"
+    ]
+  },
+  {
+    "id": 164,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Sergio a Fernando",
+    "texto": "Sergio declara: 'Sospecho que Fernando participó movido por Apuestas'.",
+    "valor": 2,
+    "tags": [
+      "acusador_sergio",
+      "acusado_fernando",
+      "motivo_apuestas"
+    ]
+  },
+  {
+    "id": 165,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Sergio a Fernando",
+    "texto": "Sergio declara: 'Sospecho que Fernando participó movido por Venganza'.",
+    "valor": 2,
+    "tags": [
+      "acusador_sergio",
+      "acusado_fernando",
+      "motivo_venganza"
+    ]
+  },
+  {
+    "id": 166,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Sergio a Javi",
+    "texto": "Sergio declara: 'Sospecho que Javi participó movido por Venganza'.",
+    "valor": 2,
+    "tags": [
+      "acusador_sergio",
+      "acusado_javi",
+      "motivo_venganza"
+    ]
+  },
+  {
+    "id": 167,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Sergio a Javi",
+    "texto": "Sergio declara: 'Sospecho que Javi participó movido por Apuestas'.",
+    "valor": 2,
+    "tags": [
+      "acusador_sergio",
+      "acusado_javi",
+      "motivo_apuestas"
+    ]
+  },
+  {
+    "id": 168,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Sergio a Javi",
+    "texto": "Sergio declara: 'Sospecho que Javi participó movido por Un cigarro'.",
+    "valor": 2,
+    "tags": [
+      "acusador_sergio",
+      "acusado_javi",
+      "motivo_un_cigarro"
+    ]
+  },
+  {
+    "id": 169,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Edu a Blanca",
+    "texto": "Edu declara: 'Sospecho que Blanca participó movido por Borrachera'.",
+    "valor": 2,
+    "tags": [
+      "acusador_edu",
+      "acusado_blanca",
+      "motivo_borrachera"
+    ]
+  },
+  {
+    "id": 170,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Edu a Blanca",
+    "texto": "Edu declara: 'Sospecho que Blanca participó movido por Una mujer'.",
+    "valor": 2,
+    "tags": [
+      "acusador_edu",
+      "acusado_blanca",
+      "motivo_una_mujer"
+    ]
+  },
+  {
+    "id": 171,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Edu a Blanca",
+    "texto": "Edu declara: 'Sospecho que Blanca participó movido por Un cigarro'.",
+    "valor": 2,
+    "tags": [
+      "acusador_edu",
+      "acusado_blanca",
+      "motivo_un_cigarro"
+    ]
+  },
+  {
+    "id": 172,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Edu a Sergio",
+    "texto": "Edu declara: 'Sospecho que Sergio participó movido por Una mujer'.",
+    "valor": 2,
+    "tags": [
+      "acusador_edu",
+      "acusado_sergio",
+      "motivo_una_mujer"
+    ]
+  },
+  {
+    "id": 173,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Edu a Sergio",
+    "texto": "Edu declara: 'Sospecho que Sergio participó movido por Venganza'.",
+    "valor": 2,
+    "tags": [
+      "acusador_edu",
+      "acusado_sergio",
+      "motivo_venganza"
+    ]
+  },
+  {
+    "id": 174,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Edu a Sergio",
+    "texto": "Edu declara: 'Sospecho que Sergio participó movido por Un bizum'.",
+    "valor": 2,
+    "tags": [
+      "acusador_edu",
+      "acusado_sergio",
+      "motivo_un_bizum"
+    ]
+  },
+  {
+    "id": 175,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Edu a Alberto",
+    "texto": "Edu declara: 'Sospecho que Alberto participó movido por Apuestas'.",
+    "valor": 2,
+    "tags": [
+      "acusador_edu",
+      "acusado_alberto",
+      "motivo_apuestas"
+    ]
+  },
+  {
+    "id": 176,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Edu a Alberto",
+    "texto": "Edu declara: 'Sospecho que Alberto participó movido por Borrachera'.",
+    "valor": 2,
+    "tags": [
+      "acusador_edu",
+      "acusado_alberto",
+      "motivo_borrachera"
+    ]
+  },
+  {
+    "id": 177,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Edu a Alberto",
+    "texto": "Edu declara: 'Sospecho que Alberto participó movido por Una mujer'.",
+    "valor": 2,
+    "tags": [
+      "acusador_edu",
+      "acusado_alberto",
+      "motivo_una_mujer"
+    ]
+  },
+  {
+    "id": 178,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Edu a Fernando",
+    "texto": "Edu declara: 'Sospecho que Fernando participó movido por Un bizum'.",
+    "valor": 2,
+    "tags": [
+      "acusador_edu",
+      "acusado_fernando",
+      "motivo_un_bizum"
+    ]
+  },
+  {
+    "id": 179,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Edu a Fernando",
+    "texto": "Edu declara: 'Sospecho que Fernando participó movido por Apuestas'.",
+    "valor": 2,
+    "tags": [
+      "acusador_edu",
+      "acusado_fernando",
+      "motivo_apuestas"
+    ]
+  },
+  {
+    "id": 180,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Edu a Fernando",
+    "texto": "Edu declara: 'Sospecho que Fernando participó movido por Venganza'.",
+    "valor": 2,
+    "tags": [
+      "acusador_edu",
+      "acusado_fernando",
+      "motivo_venganza"
+    ]
+  },
+  {
+    "id": 181,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Edu a Javi",
+    "texto": "Edu declara: 'Sospecho que Javi participó movido por Venganza'.",
+    "valor": 2,
+    "tags": [
+      "acusador_edu",
+      "acusado_javi",
+      "motivo_venganza"
+    ]
+  },
+  {
+    "id": 182,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Edu a Javi",
+    "texto": "Edu declara: 'Sospecho que Javi participó movido por Apuestas'.",
+    "valor": 2,
+    "tags": [
+      "acusador_edu",
+      "acusado_javi",
+      "motivo_apuestas"
+    ]
+  },
+  {
+    "id": 183,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Edu a Javi",
+    "texto": "Edu declara: 'Sospecho que Javi participó movido por Un cigarro'.",
+    "valor": 2,
+    "tags": [
+      "acusador_edu",
+      "acusado_javi",
+      "motivo_un_cigarro"
+    ]
+  },
+  {
+    "id": 184,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Alberto a Blanca",
+    "texto": "Alberto declara: 'Sospecho que Blanca participó movido por Borrachera'.",
+    "valor": 2,
+    "tags": [
+      "acusador_alberto",
+      "acusado_blanca",
+      "motivo_borrachera"
+    ]
+  },
+  {
+    "id": 185,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Alberto a Blanca",
+    "texto": "Alberto declara: 'Sospecho que Blanca participó movido por Una mujer'.",
+    "valor": 2,
+    "tags": [
+      "acusador_alberto",
+      "acusado_blanca",
+      "motivo_una_mujer"
+    ]
+  },
+  {
+    "id": 186,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Alberto a Blanca",
+    "texto": "Alberto declara: 'Sospecho que Blanca participó movido por Un cigarro'.",
+    "valor": 2,
+    "tags": [
+      "acusador_alberto",
+      "acusado_blanca",
+      "motivo_un_cigarro"
+    ]
+  },
+  {
+    "id": 187,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Alberto a Sergio",
+    "texto": "Alberto declara: 'Sospecho que Sergio participó movido por Una mujer'.",
+    "valor": 2,
+    "tags": [
+      "acusador_alberto",
+      "acusado_sergio",
+      "motivo_una_mujer"
+    ]
+  },
+  {
+    "id": 188,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Alberto a Sergio",
+    "texto": "Alberto declara: 'Sospecho que Sergio participó movido por Venganza'.",
+    "valor": 2,
+    "tags": [
+      "acusador_alberto",
+      "acusado_sergio",
+      "motivo_venganza"
+    ]
+  },
+  {
+    "id": 189,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Alberto a Sergio",
+    "texto": "Alberto declara: 'Sospecho que Sergio participó movido por Un bizum'.",
+    "valor": 2,
+    "tags": [
+      "acusador_alberto",
+      "acusado_sergio",
+      "motivo_un_bizum"
+    ]
+  },
+  {
+    "id": 190,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Alberto a Edu",
+    "texto": "Alberto declara: 'Sospecho que Edu participó movido por Un cigarro'.",
+    "valor": 2,
+    "tags": [
+      "acusador_alberto",
+      "acusado_edu",
+      "motivo_un_cigarro"
+    ]
+  },
+  {
+    "id": 191,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Alberto a Edu",
+    "texto": "Alberto declara: 'Sospecho que Edu participó movido por Borrachera'.",
+    "valor": 2,
+    "tags": [
+      "acusador_alberto",
+      "acusado_edu",
+      "motivo_borrachera"
+    ]
+  },
+  {
+    "id": 192,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Alberto a Edu",
+    "texto": "Alberto declara: 'Sospecho que Edu participó movido por Un bizum'.",
+    "valor": 2,
+    "tags": [
+      "acusador_alberto",
+      "acusado_edu",
+      "motivo_un_bizum"
+    ]
+  },
+  {
+    "id": 193,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Alberto a Fernando",
+    "texto": "Alberto declara: 'Sospecho que Fernando participó movido por Un bizum'.",
+    "valor": 2,
+    "tags": [
+      "acusador_alberto",
+      "acusado_fernando",
+      "motivo_un_bizum"
+    ]
+  },
+  {
+    "id": 194,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Alberto a Fernando",
+    "texto": "Alberto declara: 'Sospecho que Fernando participó movido por Apuestas'.",
+    "valor": 2,
+    "tags": [
+      "acusador_alberto",
+      "acusado_fernando",
+      "motivo_apuestas"
+    ]
+  },
+  {
+    "id": 195,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Alberto a Fernando",
+    "texto": "Alberto declara: 'Sospecho que Fernando participó movido por Venganza'.",
+    "valor": 2,
+    "tags": [
+      "acusador_alberto",
+      "acusado_fernando",
+      "motivo_venganza"
+    ]
+  },
+  {
+    "id": 196,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Alberto a Javi",
+    "texto": "Alberto declara: 'Sospecho que Javi participó movido por Venganza'.",
+    "valor": 2,
+    "tags": [
+      "acusador_alberto",
+      "acusado_javi",
+      "motivo_venganza"
+    ]
+  },
+  {
+    "id": 197,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Alberto a Javi",
+    "texto": "Alberto declara: 'Sospecho que Javi participó movido por Apuestas'.",
+    "valor": 2,
+    "tags": [
+      "acusador_alberto",
+      "acusado_javi",
+      "motivo_apuestas"
+    ]
+  },
+  {
+    "id": 198,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Alberto a Javi",
+    "texto": "Alberto declara: 'Sospecho que Javi participó movido por Un cigarro'.",
+    "valor": 2,
+    "tags": [
+      "acusador_alberto",
+      "acusado_javi",
+      "motivo_un_cigarro"
+    ]
+  },
+  {
+    "id": 199,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Fernando a Blanca",
+    "texto": "Fernando declara: 'Sospecho que Blanca participó movido por Borrachera'.",
+    "valor": 2,
+    "tags": [
+      "acusador_fernando",
+      "acusado_blanca",
+      "motivo_borrachera"
+    ]
+  },
+  {
+    "id": 200,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Fernando a Blanca",
+    "texto": "Fernando declara: 'Sospecho que Blanca participó movido por Una mujer'.",
+    "valor": 2,
+    "tags": [
+      "acusador_fernando",
+      "acusado_blanca",
+      "motivo_una_mujer"
+    ]
+  },
+  {
+    "id": 201,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Fernando a Blanca",
+    "texto": "Fernando declara: 'Sospecho que Blanca participó movido por Un cigarro'.",
+    "valor": 2,
+    "tags": [
+      "acusador_fernando",
+      "acusado_blanca",
+      "motivo_un_cigarro"
+    ]
+  },
+  {
+    "id": 202,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Fernando a Sergio",
+    "texto": "Fernando declara: 'Sospecho que Sergio participó movido por Una mujer'.",
+    "valor": 2,
+    "tags": [
+      "acusador_fernando",
+      "acusado_sergio",
+      "motivo_una_mujer"
+    ]
+  },
+  {
+    "id": 203,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Fernando a Sergio",
+    "texto": "Fernando declara: 'Sospecho que Sergio participó movido por Venganza'.",
+    "valor": 2,
+    "tags": [
+      "acusador_fernando",
+      "acusado_sergio",
+      "motivo_venganza"
+    ]
+  },
+  {
+    "id": 204,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Fernando a Sergio",
+    "texto": "Fernando declara: 'Sospecho que Sergio participó movido por Un bizum'.",
+    "valor": 2,
+    "tags": [
+      "acusador_fernando",
+      "acusado_sergio",
+      "motivo_un_bizum"
+    ]
+  },
+  {
+    "id": 205,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Fernando a Edu",
+    "texto": "Fernando declara: 'Sospecho que Edu participó movido por Un cigarro'.",
+    "valor": 2,
+    "tags": [
+      "acusador_fernando",
+      "acusado_edu",
+      "motivo_un_cigarro"
+    ]
+  },
+  {
+    "id": 206,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Fernando a Edu",
+    "texto": "Fernando declara: 'Sospecho que Edu participó movido por Borrachera'.",
+    "valor": 2,
+    "tags": [
+      "acusador_fernando",
+      "acusado_edu",
+      "motivo_borrachera"
+    ]
+  },
+  {
+    "id": 207,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Fernando a Edu",
+    "texto": "Fernando declara: 'Sospecho que Edu participó movido por Un bizum'.",
+    "valor": 2,
+    "tags": [
+      "acusador_fernando",
+      "acusado_edu",
+      "motivo_un_bizum"
+    ]
+  },
+  {
+    "id": 208,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Fernando a Alberto",
+    "texto": "Fernando declara: 'Sospecho que Alberto participó movido por Apuestas'.",
+    "valor": 2,
+    "tags": [
+      "acusador_fernando",
+      "acusado_alberto",
+      "motivo_apuestas"
+    ]
+  },
+  {
+    "id": 209,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Fernando a Alberto",
+    "texto": "Fernando declara: 'Sospecho que Alberto participó movido por Borrachera'.",
+    "valor": 2,
+    "tags": [
+      "acusador_fernando",
+      "acusado_alberto",
+      "motivo_borrachera"
+    ]
+  },
+  {
+    "id": 210,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Fernando a Alberto",
+    "texto": "Fernando declara: 'Sospecho que Alberto participó movido por Una mujer'.",
+    "valor": 2,
+    "tags": [
+      "acusador_fernando",
+      "acusado_alberto",
+      "motivo_una_mujer"
+    ]
+  },
+  {
+    "id": 211,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Fernando a Javi",
+    "texto": "Fernando declara: 'Sospecho que Javi participó movido por Venganza'.",
+    "valor": 2,
+    "tags": [
+      "acusador_fernando",
+      "acusado_javi",
+      "motivo_venganza"
+    ]
+  },
+  {
+    "id": 212,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Fernando a Javi",
+    "texto": "Fernando declara: 'Sospecho que Javi participó movido por Apuestas'.",
+    "valor": 2,
+    "tags": [
+      "acusador_fernando",
+      "acusado_javi",
+      "motivo_apuestas"
+    ]
+  },
+  {
+    "id": 213,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Fernando a Javi",
+    "texto": "Fernando declara: 'Sospecho que Javi participó movido por Un cigarro'.",
+    "valor": 2,
+    "tags": [
+      "acusador_fernando",
+      "acusado_javi",
+      "motivo_un_cigarro"
+    ]
+  },
+  {
+    "id": 214,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Javi a Blanca",
+    "texto": "Javi declara: 'Sospecho que Blanca participó movido por Borrachera'.",
+    "valor": 2,
+    "tags": [
+      "acusador_javi",
+      "acusado_blanca",
+      "motivo_borrachera"
+    ]
+  },
+  {
+    "id": 215,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Javi a Blanca",
+    "texto": "Javi declara: 'Sospecho que Blanca participó movido por Una mujer'.",
+    "valor": 2,
+    "tags": [
+      "acusador_javi",
+      "acusado_blanca",
+      "motivo_una_mujer"
+    ]
+  },
+  {
+    "id": 216,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Javi a Blanca",
+    "texto": "Javi declara: 'Sospecho que Blanca participó movido por Un cigarro'.",
+    "valor": 2,
+    "tags": [
+      "acusador_javi",
+      "acusado_blanca",
+      "motivo_un_cigarro"
+    ]
+  },
+  {
+    "id": 217,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Javi a Sergio",
+    "texto": "Javi declara: 'Sospecho que Sergio participó movido por Una mujer'.",
+    "valor": 2,
+    "tags": [
+      "acusador_javi",
+      "acusado_sergio",
+      "motivo_una_mujer"
+    ]
+  },
+  {
+    "id": 218,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Javi a Sergio",
+    "texto": "Javi declara: 'Sospecho que Sergio participó movido por Venganza'.",
+    "valor": 2,
+    "tags": [
+      "acusador_javi",
+      "acusado_sergio",
+      "motivo_venganza"
+    ]
+  },
+  {
+    "id": 219,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Javi a Sergio",
+    "texto": "Javi declara: 'Sospecho que Sergio participó movido por Un bizum'.",
+    "valor": 2,
+    "tags": [
+      "acusador_javi",
+      "acusado_sergio",
+      "motivo_un_bizum"
+    ]
+  },
+  {
+    "id": 220,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Javi a Edu",
+    "texto": "Javi declara: 'Sospecho que Edu participó movido por Un cigarro'.",
+    "valor": 2,
+    "tags": [
+      "acusador_javi",
+      "acusado_edu",
+      "motivo_un_cigarro"
+    ]
+  },
+  {
+    "id": 221,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Javi a Edu",
+    "texto": "Javi declara: 'Sospecho que Edu participó movido por Borrachera'.",
+    "valor": 2,
+    "tags": [
+      "acusador_javi",
+      "acusado_edu",
+      "motivo_borrachera"
+    ]
+  },
+  {
+    "id": 222,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Javi a Edu",
+    "texto": "Javi declara: 'Sospecho que Edu participó movido por Un bizum'.",
+    "valor": 2,
+    "tags": [
+      "acusador_javi",
+      "acusado_edu",
+      "motivo_un_bizum"
+    ]
+  },
+  {
+    "id": 223,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Javi a Alberto",
+    "texto": "Javi declara: 'Sospecho que Alberto participó movido por Apuestas'.",
+    "valor": 2,
+    "tags": [
+      "acusador_javi",
+      "acusado_alberto",
+      "motivo_apuestas"
+    ]
+  },
+  {
+    "id": 224,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Javi a Alberto",
+    "texto": "Javi declara: 'Sospecho que Alberto participó movido por Borrachera'.",
+    "valor": 2,
+    "tags": [
+      "acusador_javi",
+      "acusado_alberto",
+      "motivo_borrachera"
+    ]
+  },
+  {
+    "id": 225,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Javi a Alberto",
+    "texto": "Javi declara: 'Sospecho que Alberto participó movido por Una mujer'.",
+    "valor": 2,
+    "tags": [
+      "acusador_javi",
+      "acusado_alberto",
+      "motivo_una_mujer"
+    ]
+  },
+  {
+    "id": 226,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Javi a Fernando",
+    "texto": "Javi declara: 'Sospecho que Fernando participó movido por Un bizum'.",
+    "valor": 2,
+    "tags": [
+      "acusador_javi",
+      "acusado_fernando",
+      "motivo_un_bizum"
+    ]
+  },
+  {
+    "id": 227,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Javi a Fernando",
+    "texto": "Javi declara: 'Sospecho que Fernando participó movido por Apuestas'.",
+    "valor": 2,
+    "tags": [
+      "acusador_javi",
+      "acusado_fernando",
+      "motivo_apuestas"
+    ]
+  },
+  {
+    "id": 228,
+    "tipo": "acusacion_motivo",
+    "nombre": "Acusación: Javi a Fernando",
+    "texto": "Javi declara: 'Sospecho que Fernando participó movido por Venganza'.",
+    "valor": 2,
+    "tags": [
+      "acusador_javi",
+      "acusado_fernando",
+      "motivo_venganza"
+    ]
+  },
+  {
+    "id": 229,
+    "tipo": "descarte_motivo_especifico",
+    "nombre": "Informe: Una mujer (Sergio)",
+    "texto": "Los informes policiales descartan que entre los móviles del asesinato esté \"Una mujer\" de Sergio.",
+    "valor": 2,
+    "tags": [
+      "no_motivo_una_mujer_sergio"
+    ]
+  },
+  {
+    "id": 230,
+    "tipo": "descarte_motivo_especifico",
+    "nombre": "Informe: Venganza (Sergio)",
+    "texto": "Los informes policiales descartan que entre los móviles del asesinato esté \"Venganza\" de Sergio.",
+    "valor": 2,
+    "tags": [
+      "no_motivo_venganza_sergio"
+    ]
+  },
+  {
+    "id": 231,
+    "tipo": "descarte_motivo_especifico",
+    "nombre": "Informe: Un bizum (Sergio)",
+    "texto": "Los informes policiales descartan que entre los móviles del asesinato esté \"Un bizum\" de Sergio.",
+    "valor": 2,
+    "tags": [
+      "no_motivo_un_bizum_sergio"
+    ]
+  },
+  {
+    "id": 232,
+    "tipo": "descarte_motivo_especifico",
+    "nombre": "Informe: Un cigarro (Edu)",
+    "texto": "Los informes policiales descartan que entre los móviles del asesinato esté \"Un cigarro\" de Edu.",
+    "valor": 2,
+    "tags": [
+      "no_motivo_un_cigarro_edu"
+    ]
+  },
+  {
+    "id": 233,
+    "tipo": "descarte_motivo_especifico",
+    "nombre": "Informe: Borrachera (Edu)",
+    "texto": "Los informes policiales descartan que entre los móviles del asesinato esté \"Borrachera\" de Edu.",
+    "valor": 2,
+    "tags": [
+      "no_motivo_borrachera_edu"
+    ]
+  },
+  {
+    "id": 234,
+    "tipo": "descarte_motivo_especifico",
+    "nombre": "Informe: Un bizum (Edu)",
+    "texto": "Los informes policiales descartan que entre los móviles del asesinato esté \"Un bizum\" de Edu.",
+    "valor": 2,
+    "tags": [
+      "no_motivo_un_bizum_edu"
+    ]
+  },
+  {
+    "id": 235,
+    "tipo": "descarte_motivo_especifico",
+    "nombre": "Informe: Venganza (Javi)",
+    "texto": "Los informes policiales descartan que entre los móviles del asesinato esté \"Venganza\" de Javi.",
+    "valor": 2,
+    "tags": [
+      "no_motivo_venganza_javi"
+    ]
+  },
+  {
+    "id": 236,
+    "tipo": "descarte_motivo_especifico",
+    "nombre": "Informe: Apuestas (Javi)",
+    "texto": "Los informes policiales descartan que entre los móviles del asesinato esté \"Apuestas\" de Javi.",
+    "valor": 2,
+    "tags": [
+      "no_motivo_apuestas_javi"
+    ]
+  },
+  {
+    "id": 237,
+    "tipo": "descarte_motivo_especifico",
+    "nombre": "Informe: Un cigarro (Javi)",
+    "texto": "Los informes policiales descartan que entre los móviles del asesinato esté \"Un cigarro\" de Javi.",
+    "valor": 2,
+    "tags": [
+      "no_motivo_un_cigarro_javi"
+    ]
+  },
+  {
+    "id": 238,
+    "tipo": "descarte_motivo_especifico",
+    "nombre": "Informe: Un bizum (Fernando)",
+    "texto": "Los informes policiales descartan que entre los móviles del asesinato esté \"Un bizum\" de Fernando.",
+    "valor": 2,
+    "tags": [
+      "no_motivo_un_bizum_fernando"
+    ]
+  },
+  {
+    "id": 239,
+    "tipo": "descarte_motivo_especifico",
+    "nombre": "Informe: Apuestas (Fernando)",
+    "texto": "Los informes policiales descartan que entre los móviles del asesinato esté \"Apuestas\" de Fernando.",
+    "valor": 2,
+    "tags": [
+      "no_motivo_apuestas_fernando"
+    ]
+  },
+  {
+    "id": 240,
+    "tipo": "descarte_motivo_especifico",
+    "nombre": "Informe: Venganza (Fernando)",
+    "texto": "Los informes policiales descartan que entre los móviles del asesinato esté \"Venganza\" de Fernando.",
+    "valor": 2,
+    "tags": [
+      "no_motivo_venganza_fernando"
+    ]
+  },
+  {
+    "id": 241,
+    "tipo": "descarte_motivo_especifico",
+    "nombre": "Informe: Borrachera (Blanca)",
+    "texto": "Los informes policiales descartan que entre los móviles del asesinato esté \"Borrachera\" de Blanca.",
+    "valor": 2,
+    "tags": [
+      "no_motivo_borrachera_blanca"
+    ]
+  },
+  {
+    "id": 242,
+    "tipo": "descarte_motivo_especifico",
+    "nombre": "Informe: Una mujer (Blanca)",
+    "texto": "Los informes policiales descartan que entre los móviles del asesinato esté \"Una mujer\" de Blanca.",
+    "valor": 2,
+    "tags": [
+      "no_motivo_una_mujer_blanca"
+    ]
+  },
+  {
+    "id": 243,
+    "tipo": "descarte_motivo_especifico",
+    "nombre": "Informe: Un cigarro (Blanca)",
+    "texto": "Los informes policiales descartan que entre los móviles del asesinato esté \"Un cigarro\" de Blanca.",
+    "valor": 2,
+    "tags": [
+      "no_motivo_un_cigarro_blanca"
+    ]
+  },
+  {
+    "id": 244,
+    "tipo": "descarte_motivo_especifico",
+    "nombre": "Informe: Apuestas (Alberto)",
+    "texto": "Los informes policiales descartan que entre los móviles del asesinato esté \"Apuestas\" de Alberto.",
+    "valor": 2,
+    "tags": [
+      "no_motivo_apuestas_alberto"
+    ]
+  },
+  {
+    "id": 245,
+    "tipo": "descarte_motivo_especifico",
+    "nombre": "Informe: Borrachera (Alberto)",
+    "texto": "Los informes policiales descartan que entre los móviles del asesinato esté \"Borrachera\" de Alberto.",
+    "valor": 2,
+    "tags": [
+      "no_motivo_borrachera_alberto"
+    ]
+  },
+  {
+    "id": 246,
+    "tipo": "descarte_motivo_especifico",
+    "nombre": "Informe: Una mujer (Alberto)",
+    "texto": "Los informes policiales descartan que entre los móviles del asesinato esté \"Una mujer\" de Alberto.",
+    "valor": 2,
+    "tags": [
+      "no_motivo_una_mujer_alberto"
+    ]
+  },
+  {
+    "id": 247,
+    "tipo": "declaracion_soledad",
+    "nombre": "Declaración: Blanca (Solo)",
+    "texto": "Blanca dice que se encontraba SOLO en el momento del asesinato.",
+    "valor": 2,
+    "tags": [
+      "declaracion_solo_blanca",
+      "nombre_Blanca"
+    ]
+  },
+  {
+    "id": 248,
+    "tipo": "declaracion_soledad",
+    "nombre": "Declaración: Sergio (Solo)",
+    "texto": "Sergio dice que se encontraba SOLO en el momento del asesinato.",
+    "valor": 2,
+    "tags": [
+      "declaracion_solo_sergio",
+      "nombre_Sergio"
+    ]
+  },
+  {
+    "id": 249,
+    "tipo": "declaracion_soledad",
+    "nombre": "Declaración: Edu (Solo)",
+    "texto": "Edu dice que se encontraba SOLO en el momento del asesinato.",
+    "valor": 2,
+    "tags": [
+      "declaracion_solo_edu",
+      "nombre_Edu"
+    ]
+  },
+  {
+    "id": 250,
+    "tipo": "declaracion_soledad",
+    "nombre": "Declaración: Alberto (Solo)",
+    "texto": "Alberto dice que se encontraba SOLO en el momento del asesinato.",
+    "valor": 2,
+    "tags": [
+      "declaracion_solo_alberto",
+      "nombre_Alberto"
+    ]
+  },
+  {
+    "id": 251,
+    "tipo": "declaracion_soledad",
+    "nombre": "Declaración: Fernando (Solo)",
+    "texto": "Fernando dice que se encontraba SOLO en el momento del asesinato.",
+    "valor": 2,
+    "tags": [
+      "declaracion_solo_fernando",
+      "nombre_Fernando"
+    ]
+  },
+  {
+    "id": 252,
+    "tipo": "declaracion_soledad",
+    "nombre": "Declaración: Javi (Solo)",
+    "texto": "Javi dice que se encontraba SOLO en el momento del asesinato.",
+    "valor": 2,
+    "tags": [
+      "declaracion_solo_javi",
+      "nombre_Javi"
+    ]
+  },
+  {
+    "id": 253,
+    "tipo": "evidencia_motivo",
+    "nombre": "Evidencia: Una mujer (Sergio)",
+    "texto": "Evidencia del móvil Una mujer de Sergio.",
+    "valor": 2,
+    "tags": [
+      "evidencia_motivo_una_mujer_sergio"
+    ]
+  },
+  {
+    "id": 254,
+    "tipo": "evidencia_motivo",
+    "nombre": "Evidencia: Venganza (Sergio)",
+    "texto": "Evidencia del móvil Venganza de Sergio.",
+    "valor": 2,
+    "tags": [
+      "evidencia_motivo_venganza_sergio"
+    ]
+  },
+  {
+    "id": 255,
+    "tipo": "evidencia_motivo",
+    "nombre": "Evidencia: Un bizum (Sergio)",
+    "texto": "Evidencia del móvil Un bizum de Sergio.",
+    "valor": 2,
+    "tags": [
+      "evidencia_motivo_un_bizum_sergio"
+    ]
+  },
+  {
+    "id": 256,
+    "tipo": "evidencia_motivo",
+    "nombre": "Evidencia: Un cigarro (Edu)",
+    "texto": "Evidencia del móvil Un cigarro de Edu.",
+    "valor": 2,
+    "tags": [
+      "evidencia_motivo_un_cigarro_edu"
+    ]
+  },
+  {
+    "id": 257,
+    "tipo": "evidencia_motivo",
+    "nombre": "Evidencia: Borrachera (Edu)",
+    "texto": "Evidencia del móvil Borrachera de Edu.",
+    "valor": 2,
+    "tags": [
+      "evidencia_motivo_borrachera_edu"
+    ]
+  },
+  {
+    "id": 258,
+    "tipo": "evidencia_motivo",
+    "nombre": "Evidencia: Un bizum (Edu)",
+    "texto": "Evidencia del móvil Un bizum de Edu.",
+    "valor": 2,
+    "tags": [
+      "evidencia_motivo_un_bizum_edu"
+    ]
+  },
+  {
+    "id": 259,
+    "tipo": "evidencia_motivo",
+    "nombre": "Evidencia: Venganza (Javi)",
+    "texto": "Evidencia del móvil Venganza de Javi.",
+    "valor": 2,
+    "tags": [
+      "evidencia_motivo_venganza_javi"
+    ]
+  },
+  {
+    "id": 260,
+    "tipo": "evidencia_motivo",
+    "nombre": "Evidencia: Apuestas (Javi)",
+    "texto": "Evidencia del móvil Apuestas de Javi.",
+    "valor": 2,
+    "tags": [
+      "evidencia_motivo_apuestas_javi"
+    ]
+  },
+  {
+    "id": 261,
+    "tipo": "evidencia_motivo",
+    "nombre": "Evidencia: Un cigarro (Javi)",
+    "texto": "Evidencia del móvil Un cigarro de Javi.",
+    "valor": 2,
+    "tags": [
+      "evidencia_motivo_un_cigarro_javi"
+    ]
+  },
+  {
+    "id": 262,
+    "tipo": "evidencia_motivo",
+    "nombre": "Evidencia: Un bizum (Fernando)",
+    "texto": "Evidencia del móvil Un bizum de Fernando.",
+    "valor": 2,
+    "tags": [
+      "evidencia_motivo_un_bizum_fernando"
+    ]
+  },
+  {
+    "id": 263,
+    "tipo": "evidencia_motivo",
+    "nombre": "Evidencia: Apuestas (Fernando)",
+    "texto": "Evidencia del móvil Apuestas de Fernando.",
+    "valor": 2,
+    "tags": [
+      "evidencia_motivo_apuestas_fernando"
+    ]
+  },
+  {
+    "id": 264,
+    "tipo": "evidencia_motivo",
+    "nombre": "Evidencia: Venganza (Fernando)",
+    "texto": "Evidencia del móvil Venganza de Fernando.",
+    "valor": 2,
+    "tags": [
+      "evidencia_motivo_venganza_fernando"
+    ]
+  },
+  {
+    "id": 265,
+    "tipo": "evidencia_motivo",
+    "nombre": "Evidencia: Borrachera (Blanca)",
+    "texto": "Evidencia del móvil Borrachera de Blanca.",
+    "valor": 2,
+    "tags": [
+      "evidencia_motivo_borrachera_blanca"
+    ]
+  },
+  {
+    "id": 266,
+    "tipo": "evidencia_motivo",
+    "nombre": "Evidencia: Una mujer (Blanca)",
+    "texto": "Evidencia del móvil Una mujer de Blanca.",
+    "valor": 2,
+    "tags": [
+      "evidencia_motivo_una_mujer_blanca"
+    ]
+  },
+  {
+    "id": 267,
+    "tipo": "evidencia_motivo",
+    "nombre": "Evidencia: Un cigarro (Blanca)",
+    "texto": "Evidencia del móvil Un cigarro de Blanca.",
+    "valor": 2,
+    "tags": [
+      "evidencia_motivo_un_cigarro_blanca"
+    ]
+  },
+  {
+    "id": 268,
+    "tipo": "evidencia_motivo",
+    "nombre": "Evidencia: Apuestas (Alberto)",
+    "texto": "Evidencia del móvil Apuestas de Alberto.",
+    "valor": 2,
+    "tags": [
+      "evidencia_motivo_apuestas_alberto"
+    ]
+  },
+  {
+    "id": 269,
+    "tipo": "evidencia_motivo",
+    "nombre": "Evidencia: Borrachera (Alberto)",
+    "texto": "Evidencia del móvil Borrachera de Alberto.",
+    "valor": 2,
+    "tags": [
+      "evidencia_motivo_borrachera_alberto"
+    ]
+  },
+  {
+    "id": 270,
+    "tipo": "evidencia_motivo",
+    "nombre": "Evidencia: Una mujer (Alberto)",
+    "texto": "Evidencia del móvil Una mujer de Alberto.",
+    "valor": 2,
+    "tags": [
+      "evidencia_motivo_una_mujer_alberto"
+    ]
+  },
+  {
+    "id": 271,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Blanca en Pista de Baile (SÍ)",
+    "texto": "Las cámaras confirman que Blanca SÍ pasó por Pista de Baile en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_pista_de_baile_blanca"
+    ]
+  },
+  {
+    "id": 272,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Blanca en Pista de Baile (NO)",
+    "texto": "Las cámaras aseguran que Blanca NO pasó por Pista de Baile.",
+    "valor": 2,
+    "tags": [
+      "paso_no_pista_de_baile_blanca"
+    ]
+  },
+  {
+    "id": 273,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Blanca en Ropero (SÍ)",
+    "texto": "Las cámaras confirman que Blanca SÍ pasó por Ropero en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_ropero_blanca"
+    ]
+  },
+  {
+    "id": 274,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Blanca en Ropero (NO)",
+    "texto": "Las cámaras aseguran que Blanca NO pasó por Ropero.",
+    "valor": 2,
+    "tags": [
+      "paso_no_ropero_blanca"
+    ]
+  },
+  {
+    "id": 275,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Blanca en Baños (SÍ)",
+    "texto": "Las cámaras confirman que Blanca SÍ pasó por Baños en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_banos_blanca"
+    ]
+  },
+  {
+    "id": 276,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Blanca en Baños (NO)",
+    "texto": "Las cámaras aseguran que Blanca NO pasó por Baños.",
+    "valor": 2,
+    "tags": [
+      "paso_no_banos_blanca"
+    ]
+  },
+  {
+    "id": 277,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Blanca en Barra (SÍ)",
+    "texto": "Las cámaras confirman que Blanca SÍ pasó por Barra en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_barra_blanca"
+    ]
+  },
+  {
+    "id": 278,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Blanca en Barra (NO)",
+    "texto": "Las cámaras aseguran que Blanca NO pasó por Barra.",
+    "valor": 2,
+    "tags": [
+      "paso_no_barra_blanca"
+    ]
+  },
+  {
+    "id": 279,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Blanca en Terraza (SÍ)",
+    "texto": "Las cámaras confirman que Blanca SÍ pasó por Terraza en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_terraza_blanca"
+    ]
+  },
+  {
+    "id": 280,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Blanca en Terraza (NO)",
+    "texto": "Las cámaras aseguran que Blanca NO pasó por Terraza.",
+    "valor": 2,
+    "tags": [
+      "paso_no_terraza_blanca"
+    ]
+  },
+  {
+    "id": 281,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Blanca en Reservados (SÍ)",
+    "texto": "Las cámaras confirman que Blanca SÍ pasó por Reservados en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_reservados_blanca"
+    ]
+  },
+  {
+    "id": 282,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Blanca en Reservados (NO)",
+    "texto": "Las cámaras aseguran que Blanca NO pasó por Reservados.",
+    "valor": 2,
+    "tags": [
+      "paso_no_reservados_blanca"
+    ]
+  },
+  {
+    "id": 283,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Blanca en Sala de Seguridad (SÍ)",
+    "texto": "Las cámaras confirman que Blanca SÍ pasó por Sala de Seguridad en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_sala_de_seguridad_blanca"
+    ]
+  },
+  {
+    "id": 284,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Blanca en Sala de Seguridad (NO)",
+    "texto": "Las cámaras aseguran que Blanca NO pasó por Sala de Seguridad.",
+    "valor": 2,
+    "tags": [
+      "paso_no_sala_de_seguridad_blanca"
+    ]
+  },
+  {
+    "id": 285,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Blanca en Almacén (SÍ)",
+    "texto": "Las cámaras confirman que Blanca SÍ pasó por Almacén en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_almacén_blanca"
+    ]
+  },
+  {
+    "id": 286,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Blanca en Almacén (NO)",
+    "texto": "Las cámaras aseguran que Blanca NO pasó por Almacén.",
+    "valor": 2,
+    "tags": [
+      "paso_no_almacén_blanca"
+    ]
+  },
+  {
+    "id": 289,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Sergio en Pista de Baile (SÍ)",
+    "texto": "Las cámaras confirman que Sergio SÍ pasó por Pista de Baile en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_pista_de_baile_sergio"
+    ]
+  },
+  {
+    "id": 290,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Sergio en Pista de Baile (NO)",
+    "texto": "Las cámaras aseguran que Sergio NO pasó por Pista de Baile.",
+    "valor": 2,
+    "tags": [
+      "paso_no_pista_de_baile_sergio"
+    ]
+  },
+  {
+    "id": 291,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Sergio en Ropero (SÍ)",
+    "texto": "Las cámaras confirman que Sergio SÍ pasó por Ropero en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_ropero_sergio"
+    ]
+  },
+  {
+    "id": 292,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Sergio en Ropero (NO)",
+    "texto": "Las cámaras aseguran que Sergio NO pasó por Ropero.",
+    "valor": 2,
+    "tags": [
+      "paso_no_ropero_sergio"
+    ]
+  },
+  {
+    "id": 293,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Sergio en Baños (SÍ)",
+    "texto": "Las cámaras confirman que Sergio SÍ pasó por Baños en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_banos_sergio"
+    ]
+  },
+  {
+    "id": 294,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Sergio en Baños (NO)",
+    "texto": "Las cámaras aseguran que Sergio NO pasó por Baños.",
+    "valor": 2,
+    "tags": [
+      "paso_no_banos_sergio"
+    ]
+  },
+  {
+    "id": 295,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Sergio en Barra (SÍ)",
+    "texto": "Las cámaras confirman que Sergio SÍ pasó por Barra en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_barra_sergio"
+    ]
+  },
+  {
+    "id": 296,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Sergio en Barra (NO)",
+    "texto": "Las cámaras aseguran que Sergio NO pasó por Barra.",
+    "valor": 2,
+    "tags": [
+      "paso_no_barra_sergio"
+    ]
+  },
+  {
+    "id": 297,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Sergio en Terraza (SÍ)",
+    "texto": "Las cámaras confirman que Sergio SÍ pasó por Terraza en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_terraza_sergio"
+    ]
+  },
+  {
+    "id": 298,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Sergio en Terraza (NO)",
+    "texto": "Las cámaras aseguran que Sergio NO pasó por Terraza.",
+    "valor": 2,
+    "tags": [
+      "paso_no_terraza_sergio"
+    ]
+  },
+  {
+    "id": 299,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Sergio en Reservados (SÍ)",
+    "texto": "Las cámaras confirman que Sergio SÍ pasó por Reservados en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_reservados_sergio"
+    ]
+  },
+  {
+    "id": 300,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Sergio en Reservados (NO)",
+    "texto": "Las cámaras aseguran que Sergio NO pasó por Reservados.",
+    "valor": 2,
+    "tags": [
+      "paso_no_reservados_sergio"
+    ]
+  },
+  {
+    "id": 301,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Sergio en Sala de Seguridad (SÍ)",
+    "texto": "Las cámaras confirman que Sergio SÍ pasó por Sala de Seguridad en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_sala_de_seguridad_sergio"
+    ]
+  },
+  {
+    "id": 302,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Sergio en Sala de Seguridad (NO)",
+    "texto": "Las cámaras aseguran que Sergio NO pasó por Sala de Seguridad.",
+    "valor": 2,
+    "tags": [
+      "paso_no_sala_de_seguridad_sergio"
+    ]
+  },
+  {
+    "id": 303,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Sergio en Almacén (SÍ)",
+    "texto": "Las cámaras confirman que Sergio SÍ pasó por Almacén en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_almacén_sergio"
+    ]
+  },
+  {
+    "id": 304,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Sergio en Almacén (NO)",
+    "texto": "Las cámaras aseguran que Sergio NO pasó por Almacén.",
+    "valor": 2,
+    "tags": [
+      "paso_no_almacén_sergio"
+    ]
+  },
+  {
+    "id": 307,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Edu en Pista de Baile (SÍ)",
+    "texto": "Las cámaras confirman que Edu SÍ pasó por Pista de Baile en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_pista_de_baile_edu"
+    ]
+  },
+  {
+    "id": 308,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Edu en Pista de Baile (NO)",
+    "texto": "Las cámaras aseguran que Edu NO pasó por Pista de Baile.",
+    "valor": 2,
+    "tags": [
+      "paso_no_pista_de_baile_edu"
+    ]
+  },
+  {
+    "id": 309,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Edu en Ropero (SÍ)",
+    "texto": "Las cámaras confirman que Edu SÍ pasó por Ropero en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_ropero_edu"
+    ]
+  },
+  {
+    "id": 310,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Edu en Ropero (NO)",
+    "texto": "Las cámaras aseguran que Edu NO pasó por Ropero.",
+    "valor": 2,
+    "tags": [
+      "paso_no_ropero_edu"
+    ]
+  },
+  {
+    "id": 311,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Edu en Baños (SÍ)",
+    "texto": "Las cámaras confirman que Edu SÍ pasó por Baños en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_banos_edu"
+    ]
+  },
+  {
+    "id": 312,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Edu en Baños (NO)",
+    "texto": "Las cámaras aseguran que Edu NO pasó por Baños.",
+    "valor": 2,
+    "tags": [
+      "paso_no_banos_edu"
+    ]
+  },
+  {
+    "id": 313,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Edu en Barra (SÍ)",
+    "texto": "Las cámaras confirman que Edu SÍ pasó por Barra en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_barra_edu"
+    ]
+  },
+  {
+    "id": 314,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Edu en Barra (NO)",
+    "texto": "Las cámaras aseguran que Edu NO pasó por Barra.",
+    "valor": 2,
+    "tags": [
+      "paso_no_barra_edu"
+    ]
+  },
+  {
+    "id": 315,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Edu en Terraza (SÍ)",
+    "texto": "Las cámaras confirman que Edu SÍ pasó por Terraza en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_terraza_edu"
+    ]
+  },
+  {
+    "id": 316,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Edu en Terraza (NO)",
+    "texto": "Las cámaras aseguran que Edu NO pasó por Terraza.",
+    "valor": 2,
+    "tags": [
+      "paso_no_terraza_edu"
+    ]
+  },
+  {
+    "id": 317,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Edu en Reservados (SÍ)",
+    "texto": "Las cámaras confirman que Edu SÍ pasó por Reservados en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_reservados_edu"
+    ]
+  },
+  {
+    "id": 318,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Edu en Reservados (NO)",
+    "texto": "Las cámaras aseguran que Edu NO pasó por Reservados.",
+    "valor": 2,
+    "tags": [
+      "paso_no_reservados_edu"
+    ]
+  },
+  {
+    "id": 319,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Edu en Sala de Seguridad (SÍ)",
+    "texto": "Las cámaras confirman que Edu SÍ pasó por Sala de Seguridad en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_sala_de_seguridad_edu"
+    ]
+  },
+  {
+    "id": 320,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Edu en Sala de Seguridad (NO)",
+    "texto": "Las cámaras aseguran que Edu NO pasó por Sala de Seguridad.",
+    "valor": 2,
+    "tags": [
+      "paso_no_sala_de_seguridad_edu"
+    ]
+  },
+  {
+    "id": 321,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Edu en Almacén (SÍ)",
+    "texto": "Las cámaras confirman que Edu SÍ pasó por Almacén en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_almacén_edu"
+    ]
+  },
+  {
+    "id": 322,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Edu en Almacén (NO)",
+    "texto": "Las cámaras aseguran que Edu NO pasó por Almacén.",
+    "valor": 2,
+    "tags": [
+      "paso_no_almacén_edu"
+    ]
+  },
+  {
+    "id": 325,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Alberto en Pista de Baile (SÍ)",
+    "texto": "Las cámaras confirman que Alberto SÍ pasó por Pista de Baile en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_pista_de_baile_alberto"
+    ]
+  },
+  {
+    "id": 326,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Alberto en Pista de Baile (NO)",
+    "texto": "Las cámaras aseguran que Alberto NO pasó por Pista de Baile.",
+    "valor": 2,
+    "tags": [
+      "paso_no_pista_de_baile_alberto"
+    ]
+  },
+  {
+    "id": 327,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Alberto en Ropero (SÍ)",
+    "texto": "Las cámaras confirman que Alberto SÍ pasó por Ropero en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_ropero_alberto"
+    ]
+  },
+  {
+    "id": 328,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Alberto en Ropero (NO)",
+    "texto": "Las cámaras aseguran que Alberto NO pasó por Ropero.",
+    "valor": 2,
+    "tags": [
+      "paso_no_ropero_alberto"
+    ]
+  },
+  {
+    "id": 329,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Alberto en Baños (SÍ)",
+    "texto": "Las cámaras confirman que Alberto SÍ pasó por Baños en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_banos_alberto"
+    ]
+  },
+  {
+    "id": 330,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Alberto en Baños (NO)",
+    "texto": "Las cámaras aseguran que Alberto NO pasó por Baños.",
+    "valor": 2,
+    "tags": [
+      "paso_no_banos_alberto"
+    ]
+  },
+  {
+    "id": 331,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Alberto en Barra (SÍ)",
+    "texto": "Las cámaras confirman que Alberto SÍ pasó por Barra en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_barra_alberto"
+    ]
+  },
+  {
+    "id": 332,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Alberto en Barra (NO)",
+    "texto": "Las cámaras aseguran que Alberto NO pasó por Barra.",
+    "valor": 2,
+    "tags": [
+      "paso_no_barra_alberto"
+    ]
+  },
+  {
+    "id": 333,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Alberto en Terraza (SÍ)",
+    "texto": "Las cámaras confirman que Alberto SÍ pasó por Terraza en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_terraza_alberto"
+    ]
+  },
+  {
+    "id": 334,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Alberto en Terraza (NO)",
+    "texto": "Las cámaras aseguran que Alberto NO pasó por Terraza.",
+    "valor": 2,
+    "tags": [
+      "paso_no_terraza_alberto"
+    ]
+  },
+  {
+    "id": 335,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Alberto en Reservados (SÍ)",
+    "texto": "Las cámaras confirman que Alberto SÍ pasó por Reservados en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_reservados_alberto"
+    ]
+  },
+  {
+    "id": 336,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Alberto en Reservados (NO)",
+    "texto": "Las cámaras aseguran que Alberto NO pasó por Reservados.",
+    "valor": 2,
+    "tags": [
+      "paso_no_reservados_alberto"
+    ]
+  },
+  {
+    "id": 337,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Alberto en Sala de Seguridad (SÍ)",
+    "texto": "Las cámaras confirman que Alberto SÍ pasó por Sala de Seguridad en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_sala_de_seguridad_alberto"
+    ]
+  },
+  {
+    "id": 338,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Alberto en Sala de Seguridad (NO)",
+    "texto": "Las cámaras aseguran que Alberto NO pasó por Sala de Seguridad.",
+    "valor": 2,
+    "tags": [
+      "paso_no_sala_de_seguridad_alberto"
+    ]
+  },
+  {
+    "id": 339,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Alberto en Almacén (SÍ)",
+    "texto": "Las cámaras confirman que Alberto SÍ pasó por Almacén en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_almacén_alberto"
+    ]
+  },
+  {
+    "id": 340,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Alberto en Almacén (NO)",
+    "texto": "Las cámaras aseguran que Alberto NO pasó por Almacén.",
+    "valor": 2,
+    "tags": [
+      "paso_no_almacén_alberto"
+    ]
+  },
+  {
+    "id": 343,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Fernando en Pista de Baile (SÍ)",
+    "texto": "Las cámaras confirman que Fernando SÍ pasó por Pista de Baile en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_pista_de_baile_fernando"
+    ]
+  },
+  {
+    "id": 344,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Fernando en Pista de Baile (NO)",
+    "texto": "Las cámaras aseguran que Fernando NO pasó por Pista de Baile.",
+    "valor": 2,
+    "tags": [
+      "paso_no_pista_de_baile_fernando"
+    ]
+  },
+  {
+    "id": 345,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Fernando en Ropero (SÍ)",
+    "texto": "Las cámaras confirman que Fernando SÍ pasó por Ropero en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_ropero_fernando"
+    ]
+  },
+  {
+    "id": 346,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Fernando en Ropero (NO)",
+    "texto": "Las cámaras aseguran que Fernando NO pasó por Ropero.",
+    "valor": 2,
+    "tags": [
+      "paso_no_ropero_fernando"
+    ]
+  },
+  {
+    "id": 347,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Fernando en Baños (SÍ)",
+    "texto": "Las cámaras confirman que Fernando SÍ pasó por Baños en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_banos_fernando"
+    ]
+  },
+  {
+    "id": 348,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Fernando en Baños (NO)",
+    "texto": "Las cámaras aseguran que Fernando NO pasó por Baños.",
+    "valor": 2,
+    "tags": [
+      "paso_no_banos_fernando"
+    ]
+  },
+  {
+    "id": 349,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Fernando en Barra (SÍ)",
+    "texto": "Las cámaras confirman que Fernando SÍ pasó por Barra en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_barra_fernando"
+    ]
+  },
+  {
+    "id": 350,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Fernando en Barra (NO)",
+    "texto": "Las cámaras aseguran que Fernando NO pasó por Barra.",
+    "valor": 2,
+    "tags": [
+      "paso_no_barra_fernando"
+    ]
+  },
+  {
+    "id": 351,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Fernando en Terraza (SÍ)",
+    "texto": "Las cámaras confirman que Fernando SÍ pasó por Terraza en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_terraza_fernando"
+    ]
+  },
+  {
+    "id": 352,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Fernando en Terraza (NO)",
+    "texto": "Las cámaras aseguran que Fernando NO pasó por Terraza.",
+    "valor": 2,
+    "tags": [
+      "paso_no_terraza_fernando"
+    ]
+  },
+  {
+    "id": 353,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Fernando en Reservados (SÍ)",
+    "texto": "Las cámaras confirman que Fernando SÍ pasó por Reservados en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_reservados_fernando"
+    ]
+  },
+  {
+    "id": 354,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Fernando en Reservados (NO)",
+    "texto": "Las cámaras aseguran que Fernando NO pasó por Reservados.",
+    "valor": 2,
+    "tags": [
+      "paso_no_reservados_fernando"
+    ]
+  },
+  {
+    "id": 355,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Fernando en Sala de Seguridad (SÍ)",
+    "texto": "Las cámaras confirman que Fernando SÍ pasó por Sala de Seguridad en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_sala_de_seguridad_fernando"
+    ]
+  },
+  {
+    "id": 356,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Fernando en Sala de Seguridad (NO)",
+    "texto": "Las cámaras aseguran que Fernando NO pasó por Sala de Seguridad.",
+    "valor": 2,
+    "tags": [
+      "paso_no_sala_de_seguridad_fernando"
+    ]
+  },
+  {
+    "id": 357,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Fernando en Almacén (SÍ)",
+    "texto": "Las cámaras confirman que Fernando SÍ pasó por Almacén en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_almacén_fernando"
+    ]
+  },
+  {
+    "id": 358,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Fernando en Almacén (NO)",
+    "texto": "Las cámaras aseguran que Fernando NO pasó por Almacén.",
+    "valor": 2,
+    "tags": [
+      "paso_no_almacén_fernando"
+    ]
+  },
+  {
+    "id": 361,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Javi en Pista de Baile (SÍ)",
+    "texto": "Las cámaras confirman que Javi SÍ pasó por Pista de Baile en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_pista_de_baile_javi"
+    ]
+  },
+  {
+    "id": 362,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Javi en Pista de Baile (NO)",
+    "texto": "Las cámaras aseguran que Javi NO pasó por Pista de Baile.",
+    "valor": 2,
+    "tags": [
+      "paso_no_pista_de_baile_javi"
+    ]
+  },
+  {
+    "id": 363,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Javi en Ropero (SÍ)",
+    "texto": "Las cámaras confirman que Javi SÍ pasó por Ropero en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_ropero_javi"
+    ]
+  },
+  {
+    "id": 364,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Javi en Ropero (NO)",
+    "texto": "Las cámaras aseguran que Javi NO pasó por Ropero.",
+    "valor": 2,
+    "tags": [
+      "paso_no_ropero_javi"
+    ]
+  },
+  {
+    "id": 365,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Javi en Baños (SÍ)",
+    "texto": "Las cámaras confirman que Javi SÍ pasó por Baños en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_banos_javi"
+    ]
+  },
+  {
+    "id": 366,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Javi en Baños (NO)",
+    "texto": "Las cámaras aseguran que Javi NO pasó por Baños.",
+    "valor": 2,
+    "tags": [
+      "paso_no_banos_javi"
+    ]
+  },
+  {
+    "id": 367,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Javi en Barra (SÍ)",
+    "texto": "Las cámaras confirman que Javi SÍ pasó por Barra en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_barra_javi"
+    ]
+  },
+  {
+    "id": 368,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Javi en Barra (NO)",
+    "texto": "Las cámaras aseguran que Javi NO pasó por Barra.",
+    "valor": 2,
+    "tags": [
+      "paso_no_barra_javi"
+    ]
+  },
+  {
+    "id": 369,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Javi en Terraza (SÍ)",
+    "texto": "Las cámaras confirman que Javi SÍ pasó por Terraza en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_terraza_javi"
+    ]
+  },
+  {
+    "id": 370,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Javi en Terraza (NO)",
+    "texto": "Las cámaras aseguran que Javi NO pasó por Terraza.",
+    "valor": 2,
+    "tags": [
+      "paso_no_terraza_javi"
+    ]
+  },
+  {
+    "id": 371,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Javi en Reservados (SÍ)",
+    "texto": "Las cámaras confirman que Javi SÍ pasó por Reservados en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_reservados_javi"
+    ]
+  },
+  {
+    "id": 372,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Javi en Reservados (NO)",
+    "texto": "Las cámaras aseguran que Javi NO pasó por Reservados.",
+    "valor": 2,
+    "tags": [
+      "paso_no_reservados_javi"
+    ]
+  },
+  {
+    "id": 373,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Javi en Sala de Seguridad (SÍ)",
+    "texto": "Las cámaras confirman que Javi SÍ pasó por Sala de Seguridad en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_sala_de_seguridad_javi"
+    ]
+  },
+  {
+    "id": 374,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Javi en Sala de Seguridad (NO)",
+    "texto": "Las cámaras aseguran que Javi NO pasó por Sala de Seguridad.",
+    "valor": 2,
+    "tags": [
+      "paso_no_sala_de_seguridad_javi"
+    ]
+  },
+  {
+    "id": 375,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Javi en Almacén (SÍ)",
+    "texto": "Las cámaras confirman que Javi SÍ pasó por Almacén en algún momento.",
+    "valor": 2,
+    "tags": [
+      "paso_si_almacén_javi"
+    ]
+  },
+  {
+    "id": 376,
+    "tipo": "camara_individual",
+    "nombre": "Cámara: Javi en Almacén (NO)",
+    "texto": "Las cámaras aseguran que Javi NO pasó por Almacén.",
+    "valor": 2,
+    "tags": [
+      "paso_no_almacén_javi"
+    ]
+  },
+  {
+    "id": 379,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Sergio en Pista de Baile (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Sergio PASARON por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_si_pista_de_baile_blanca",
+      "paso_si_pista_de_baile_sergio"
+    ]
+  },
+  {
+    "id": 380,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Sergio en Pista de Baile (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Sergio pasaron por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_no_pista_de_baile_blanca",
+      "paso_no_pista_de_baile_sergio"
+    ]
+  },
+  {
+    "id": 381,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Sergio en Ropero (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Sergio PASARON por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_si_ropero_blanca",
+      "paso_si_ropero_sergio"
+    ]
+  },
+  {
+    "id": 382,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Sergio en Ropero (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Sergio pasaron por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_no_ropero_blanca",
+      "paso_no_ropero_sergio"
+    ]
+  },
+  {
+    "id": 383,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Sergio en Baños (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Sergio PASARON por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_si_banos_blanca",
+      "paso_si_banos_sergio"
+    ]
+  },
+  {
+    "id": 384,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Sergio en Baños (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Sergio pasaron por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_no_banos_blanca",
+      "paso_no_banos_sergio"
+    ]
+  },
+  {
+    "id": 385,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Sergio en Barra (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Sergio PASARON por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_si_barra_blanca",
+      "paso_si_barra_sergio"
+    ]
+  },
+  {
+    "id": 386,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Sergio en Barra (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Sergio pasaron por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_no_barra_blanca",
+      "paso_no_barra_sergio"
+    ]
+  },
+  {
+    "id": 387,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Sergio en Terraza (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Sergio PASARON por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_si_terraza_blanca",
+      "paso_si_terraza_sergio"
+    ]
+  },
+  {
+    "id": 388,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Sergio en Terraza (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Sergio pasaron por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_no_terraza_blanca",
+      "paso_no_terraza_sergio"
+    ]
+  },
+  {
+    "id": 389,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Sergio en Reservados (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Sergio PASARON por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_si_reservados_blanca",
+      "paso_si_reservados_sergio"
+    ]
+  },
+  {
+    "id": 390,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Sergio en Reservados (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Sergio pasaron por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_no_reservados_blanca",
+      "paso_no_reservados_sergio"
+    ]
+  },
+  {
+    "id": 391,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Sergio en Sala de Seguridad (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Sergio PASARON por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_si_sala_de_seguridad_blanca",
+      "paso_si_sala_de_seguridad_sergio"
+    ]
+  },
+  {
+    "id": 392,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Sergio en Sala de Seguridad (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Sergio pasaron por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_no_sala_de_seguridad_blanca",
+      "paso_no_sala_de_seguridad_sergio"
+    ]
+  },
+  {
+    "id": 393,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Sergio en Almacén (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Sergio PASARON por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_si_almacén_blanca",
+      "paso_si_almacén_sergio"
+    ]
+  },
+  {
+    "id": 394,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Sergio en Almacén (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Sergio pasaron por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_no_almacén_blanca",
+      "paso_no_almacén_sergio"
+    ]
+  },
+  {
+    "id": 397,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Edu en Pista de Baile (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Edu PASARON por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_si_pista_de_baile_blanca",
+      "paso_si_pista_de_baile_edu"
+    ]
+  },
+  {
+    "id": 398,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Edu en Pista de Baile (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Edu pasaron por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_no_pista_de_baile_blanca",
+      "paso_no_pista_de_baile_edu"
+    ]
+  },
+  {
+    "id": 399,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Edu en Ropero (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Edu PASARON por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_si_ropero_blanca",
+      "paso_si_ropero_edu"
+    ]
+  },
+  {
+    "id": 400,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Edu en Ropero (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Edu pasaron por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_no_ropero_blanca",
+      "paso_no_ropero_edu"
+    ]
+  },
+  {
+    "id": 401,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Edu en Baños (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Edu PASARON por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_si_banos_blanca",
+      "paso_si_banos_edu"
+    ]
+  },
+  {
+    "id": 402,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Edu en Baños (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Edu pasaron por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_no_banos_blanca",
+      "paso_no_banos_edu"
+    ]
+  },
+  {
+    "id": 403,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Edu en Barra (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Edu PASARON por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_si_barra_blanca",
+      "paso_si_barra_edu"
+    ]
+  },
+  {
+    "id": 404,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Edu en Barra (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Edu pasaron por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_no_barra_blanca",
+      "paso_no_barra_edu"
+    ]
+  },
+  {
+    "id": 405,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Edu en Terraza (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Edu PASARON por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_si_terraza_blanca",
+      "paso_si_terraza_edu"
+    ]
+  },
+  {
+    "id": 406,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Edu en Terraza (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Edu pasaron por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_no_terraza_blanca",
+      "paso_no_terraza_edu"
+    ]
+  },
+  {
+    "id": 407,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Edu en Reservados (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Edu PASARON por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_si_reservados_blanca",
+      "paso_si_reservados_edu"
+    ]
+  },
+  {
+    "id": 408,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Edu en Reservados (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Edu pasaron por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_no_reservados_blanca",
+      "paso_no_reservados_edu"
+    ]
+  },
+  {
+    "id": 409,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Edu en Sala de Seguridad (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Edu PASARON por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_si_sala_de_seguridad_blanca",
+      "paso_si_sala_de_seguridad_edu"
+    ]
+  },
+  {
+    "id": 410,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Edu en Sala de Seguridad (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Edu pasaron por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_no_sala_de_seguridad_blanca",
+      "paso_no_sala_de_seguridad_edu"
+    ]
+  },
+  {
+    "id": 411,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Edu en Almacén (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Edu PASARON por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_si_almacén_blanca",
+      "paso_si_almacén_edu"
+    ]
+  },
+  {
+    "id": 412,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Edu en Almacén (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Edu pasaron por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_no_almacén_blanca",
+      "paso_no_almacén_edu"
+    ]
+  },
+  {
+    "id": 415,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Alberto en Pista de Baile (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Alberto PASARON por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_si_pista_de_baile_blanca",
+      "paso_si_pista_de_baile_alberto"
+    ]
+  },
+  {
+    "id": 416,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Alberto en Pista de Baile (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Alberto pasaron por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_no_pista_de_baile_blanca",
+      "paso_no_pista_de_baile_alberto"
+    ]
+  },
+  {
+    "id": 417,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Alberto en Ropero (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Alberto PASARON por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_si_ropero_blanca",
+      "paso_si_ropero_alberto"
+    ]
+  },
+  {
+    "id": 418,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Alberto en Ropero (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Alberto pasaron por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_no_ropero_blanca",
+      "paso_no_ropero_alberto"
+    ]
+  },
+  {
+    "id": 419,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Alberto en Baños (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Alberto PASARON por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_si_banos_blanca",
+      "paso_si_banos_alberto"
+    ]
+  },
+  {
+    "id": 420,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Alberto en Baños (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Alberto pasaron por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_no_banos_blanca",
+      "paso_no_banos_alberto"
+    ]
+  },
+  {
+    "id": 421,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Alberto en Barra (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Alberto PASARON por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_si_barra_blanca",
+      "paso_si_barra_alberto"
+    ]
+  },
+  {
+    "id": 422,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Alberto en Barra (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Alberto pasaron por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_no_barra_blanca",
+      "paso_no_barra_alberto"
+    ]
+  },
+  {
+    "id": 423,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Alberto en Terraza (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Alberto PASARON por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_si_terraza_blanca",
+      "paso_si_terraza_alberto"
+    ]
+  },
+  {
+    "id": 424,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Alberto en Terraza (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Alberto pasaron por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_no_terraza_blanca",
+      "paso_no_terraza_alberto"
+    ]
+  },
+  {
+    "id": 425,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Alberto en Reservados (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Alberto PASARON por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_si_reservados_blanca",
+      "paso_si_reservados_alberto"
+    ]
+  },
+  {
+    "id": 426,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Alberto en Reservados (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Alberto pasaron por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_no_reservados_blanca",
+      "paso_no_reservados_alberto"
+    ]
+  },
+  {
+    "id": 427,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Alberto en Sala de Seguridad (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Alberto PASARON por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_si_sala_de_seguridad_blanca",
+      "paso_si_sala_de_seguridad_alberto"
+    ]
+  },
+  {
+    "id": 428,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Alberto en Sala de Seguridad (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Alberto pasaron por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_no_sala_de_seguridad_blanca",
+      "paso_no_sala_de_seguridad_alberto"
+    ]
+  },
+  {
+    "id": 429,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Alberto en Almacén (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Alberto PASARON por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_si_almacén_blanca",
+      "paso_si_almacén_alberto"
+    ]
+  },
+  {
+    "id": 430,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Alberto en Almacén (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Alberto pasaron por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_no_almacén_blanca",
+      "paso_no_almacén_alberto"
+    ]
+  },
+  {
+    "id": 433,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Fernando en Pista de Baile (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Fernando PASARON por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_si_pista_de_baile_blanca",
+      "paso_si_pista_de_baile_fernando"
+    ]
+  },
+  {
+    "id": 434,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Fernando en Pista de Baile (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Fernando pasaron por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_no_pista_de_baile_blanca",
+      "paso_no_pista_de_baile_fernando"
+    ]
+  },
+  {
+    "id": 435,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Fernando en Ropero (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Fernando PASARON por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_si_ropero_blanca",
+      "paso_si_ropero_fernando"
+    ]
+  },
+  {
+    "id": 436,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Fernando en Ropero (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Fernando pasaron por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_no_ropero_blanca",
+      "paso_no_ropero_fernando"
+    ]
+  },
+  {
+    "id": 437,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Fernando en Baños (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Fernando PASARON por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_si_banos_blanca",
+      "paso_si_banos_fernando"
+    ]
+  },
+  {
+    "id": 438,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Fernando en Baños (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Fernando pasaron por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_no_banos_blanca",
+      "paso_no_banos_fernando"
+    ]
+  },
+  {
+    "id": 439,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Fernando en Barra (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Fernando PASARON por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_si_barra_blanca",
+      "paso_si_barra_fernando"
+    ]
+  },
+  {
+    "id": 440,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Fernando en Barra (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Fernando pasaron por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_no_barra_blanca",
+      "paso_no_barra_fernando"
+    ]
+  },
+  {
+    "id": 441,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Fernando en Terraza (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Fernando PASARON por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_si_terraza_blanca",
+      "paso_si_terraza_fernando"
+    ]
+  },
+  {
+    "id": 442,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Fernando en Terraza (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Fernando pasaron por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_no_terraza_blanca",
+      "paso_no_terraza_fernando"
+    ]
+  },
+  {
+    "id": 443,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Fernando en Reservados (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Fernando PASARON por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_si_reservados_blanca",
+      "paso_si_reservados_fernando"
+    ]
+  },
+  {
+    "id": 444,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Fernando en Reservados (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Fernando pasaron por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_no_reservados_blanca",
+      "paso_no_reservados_fernando"
+    ]
+  },
+  {
+    "id": 445,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Fernando en Sala de Seguridad (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Fernando PASARON por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_si_sala_de_seguridad_blanca",
+      "paso_si_sala_de_seguridad_fernando"
+    ]
+  },
+  {
+    "id": 446,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Fernando en Sala de Seguridad (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Fernando pasaron por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_no_sala_de_seguridad_blanca",
+      "paso_no_sala_de_seguridad_fernando"
+    ]
+  },
+  {
+    "id": 447,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Fernando en Almacén (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Fernando PASARON por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_si_almacén_blanca",
+      "paso_si_almacén_fernando"
+    ]
+  },
+  {
+    "id": 448,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Fernando en Almacén (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Fernando pasaron por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_no_almacén_blanca",
+      "paso_no_almacén_fernando"
+    ]
+  },
+  {
+    "id": 451,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Javi en Pista de Baile (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Javi PASARON por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_si_pista_de_baile_blanca",
+      "paso_si_pista_de_baile_javi"
+    ]
+  },
+  {
+    "id": 452,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Javi en Pista de Baile (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Javi pasaron por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_no_pista_de_baile_blanca",
+      "paso_no_pista_de_baile_javi"
+    ]
+  },
+  {
+    "id": 453,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Javi en Ropero (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Javi PASARON por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_si_ropero_blanca",
+      "paso_si_ropero_javi"
+    ]
+  },
+  {
+    "id": 454,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Javi en Ropero (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Javi pasaron por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_no_ropero_blanca",
+      "paso_no_ropero_javi"
+    ]
+  },
+  {
+    "id": 455,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Javi en Baños (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Javi PASARON por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_si_banos_blanca",
+      "paso_si_banos_javi"
+    ]
+  },
+  {
+    "id": 456,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Javi en Baños (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Javi pasaron por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_no_banos_blanca",
+      "paso_no_banos_javi"
+    ]
+  },
+  {
+    "id": 457,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Javi en Barra (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Javi PASARON por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_si_barra_blanca",
+      "paso_si_barra_javi"
+    ]
+  },
+  {
+    "id": 458,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Javi en Barra (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Javi pasaron por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_no_barra_blanca",
+      "paso_no_barra_javi"
+    ]
+  },
+  {
+    "id": 459,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Javi en Terraza (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Javi PASARON por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_si_terraza_blanca",
+      "paso_si_terraza_javi"
+    ]
+  },
+  {
+    "id": 460,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Javi en Terraza (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Javi pasaron por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_no_terraza_blanca",
+      "paso_no_terraza_javi"
+    ]
+  },
+  {
+    "id": 461,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Javi en Reservados (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Javi PASARON por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_si_reservados_blanca",
+      "paso_si_reservados_javi"
+    ]
+  },
+  {
+    "id": 462,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Javi en Reservados (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Javi pasaron por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_no_reservados_blanca",
+      "paso_no_reservados_javi"
+    ]
+  },
+  {
+    "id": 463,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Javi en Sala de Seguridad (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Javi PASARON por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_si_sala_de_seguridad_blanca",
+      "paso_si_sala_de_seguridad_javi"
+    ]
+  },
+  {
+    "id": 464,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Javi en Sala de Seguridad (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Javi pasaron por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_no_sala_de_seguridad_blanca",
+      "paso_no_sala_de_seguridad_javi"
+    ]
+  },
+  {
+    "id": 465,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Javi en Almacén (SÍ)",
+    "texto": "Las cámaras confirman que tanto Blanca como Javi PASARON por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_si_almacén_blanca",
+      "paso_si_almacén_javi"
+    ]
+  },
+  {
+    "id": 466,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Blanca y Javi en Almacén (NO)",
+    "texto": "Las cámaras confirman que NI Blanca NI Javi pasaron por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_no_almacén_blanca",
+      "paso_no_almacén_javi"
+    ]
+  },
+  {
+    "id": 469,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Edu en Pista de Baile (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Edu PASARON por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_si_pista_de_baile_sergio",
+      "paso_si_pista_de_baile_edu"
+    ]
+  },
+  {
+    "id": 470,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Edu en Pista de Baile (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Edu pasaron por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_no_pista_de_baile_sergio",
+      "paso_no_pista_de_baile_edu"
+    ]
+  },
+  {
+    "id": 471,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Edu en Ropero (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Edu PASARON por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_si_ropero_sergio",
+      "paso_si_ropero_edu"
+    ]
+  },
+  {
+    "id": 472,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Edu en Ropero (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Edu pasaron por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_no_ropero_sergio",
+      "paso_no_ropero_edu"
+    ]
+  },
+  {
+    "id": 473,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Edu en Baños (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Edu PASARON por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_si_banos_sergio",
+      "paso_si_banos_edu"
+    ]
+  },
+  {
+    "id": 474,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Edu en Baños (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Edu pasaron por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_no_banos_sergio",
+      "paso_no_banos_edu"
+    ]
+  },
+  {
+    "id": 475,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Edu en Barra (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Edu PASARON por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_si_barra_sergio",
+      "paso_si_barra_edu"
+    ]
+  },
+  {
+    "id": 476,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Edu en Barra (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Edu pasaron por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_no_barra_sergio",
+      "paso_no_barra_edu"
+    ]
+  },
+  {
+    "id": 477,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Edu en Terraza (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Edu PASARON por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_si_terraza_sergio",
+      "paso_si_terraza_edu"
+    ]
+  },
+  {
+    "id": 478,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Edu en Terraza (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Edu pasaron por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_no_terraza_sergio",
+      "paso_no_terraza_edu"
+    ]
+  },
+  {
+    "id": 479,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Edu en Reservados (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Edu PASARON por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_si_reservados_sergio",
+      "paso_si_reservados_edu"
+    ]
+  },
+  {
+    "id": 480,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Edu en Reservados (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Edu pasaron por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_no_reservados_sergio",
+      "paso_no_reservados_edu"
+    ]
+  },
+  {
+    "id": 481,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Edu en Sala de Seguridad (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Edu PASARON por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_si_sala_de_seguridad_sergio",
+      "paso_si_sala_de_seguridad_edu"
+    ]
+  },
+  {
+    "id": 482,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Edu en Sala de Seguridad (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Edu pasaron por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_no_sala_de_seguridad_sergio",
+      "paso_no_sala_de_seguridad_edu"
+    ]
+  },
+  {
+    "id": 483,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Edu en Almacén (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Edu PASARON por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_si_almacén_sergio",
+      "paso_si_almacén_edu"
+    ]
+  },
+  {
+    "id": 484,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Edu en Almacén (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Edu pasaron por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_no_almacén_sergio",
+      "paso_no_almacén_edu"
+    ]
+  },
+  {
+    "id": 487,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Alberto en Pista de Baile (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Alberto PASARON por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_si_pista_de_baile_sergio",
+      "paso_si_pista_de_baile_alberto"
+    ]
+  },
+  {
+    "id": 488,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Alberto en Pista de Baile (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Alberto pasaron por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_no_pista_de_baile_sergio",
+      "paso_no_pista_de_baile_alberto"
+    ]
+  },
+  {
+    "id": 489,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Alberto en Ropero (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Alberto PASARON por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_si_ropero_sergio",
+      "paso_si_ropero_alberto"
+    ]
+  },
+  {
+    "id": 490,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Alberto en Ropero (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Alberto pasaron por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_no_ropero_sergio",
+      "paso_no_ropero_alberto"
+    ]
+  },
+  {
+    "id": 491,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Alberto en Baños (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Alberto PASARON por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_si_banos_sergio",
+      "paso_si_banos_alberto"
+    ]
+  },
+  {
+    "id": 492,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Alberto en Baños (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Alberto pasaron por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_no_banos_sergio",
+      "paso_no_banos_alberto"
+    ]
+  },
+  {
+    "id": 493,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Alberto en Barra (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Alberto PASARON por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_si_barra_sergio",
+      "paso_si_barra_alberto"
+    ]
+  },
+  {
+    "id": 494,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Alberto en Barra (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Alberto pasaron por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_no_barra_sergio",
+      "paso_no_barra_alberto"
+    ]
+  },
+  {
+    "id": 495,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Alberto en Terraza (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Alberto PASARON por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_si_terraza_sergio",
+      "paso_si_terraza_alberto"
+    ]
+  },
+  {
+    "id": 496,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Alberto en Terraza (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Alberto pasaron por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_no_terraza_sergio",
+      "paso_no_terraza_alberto"
+    ]
+  },
+  {
+    "id": 497,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Alberto en Reservados (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Alberto PASARON por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_si_reservados_sergio",
+      "paso_si_reservados_alberto"
+    ]
+  },
+  {
+    "id": 498,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Alberto en Reservados (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Alberto pasaron por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_no_reservados_sergio",
+      "paso_no_reservados_alberto"
+    ]
+  },
+  {
+    "id": 499,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Alberto en Sala de Seguridad (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Alberto PASARON por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_si_sala_de_seguridad_sergio",
+      "paso_si_sala_de_seguridad_alberto"
+    ]
+  },
+  {
+    "id": 500,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Alberto en Sala de Seguridad (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Alberto pasaron por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_no_sala_de_seguridad_sergio",
+      "paso_no_sala_de_seguridad_alberto"
+    ]
+  },
+  {
+    "id": 501,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Alberto en Almacén (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Alberto PASARON por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_si_almacén_sergio",
+      "paso_si_almacén_alberto"
+    ]
+  },
+  {
+    "id": 502,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Alberto en Almacén (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Alberto pasaron por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_no_almacén_sergio",
+      "paso_no_almacén_alberto"
+    ]
+  },
+  {
+    "id": 505,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Fernando en Pista de Baile (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Fernando PASARON por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_si_pista_de_baile_sergio",
+      "paso_si_pista_de_baile_fernando"
+    ]
+  },
+  {
+    "id": 506,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Fernando en Pista de Baile (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Fernando pasaron por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_no_pista_de_baile_sergio",
+      "paso_no_pista_de_baile_fernando"
+    ]
+  },
+  {
+    "id": 507,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Fernando en Ropero (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Fernando PASARON por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_si_ropero_sergio",
+      "paso_si_ropero_fernando"
+    ]
+  },
+  {
+    "id": 508,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Fernando en Ropero (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Fernando pasaron por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_no_ropero_sergio",
+      "paso_no_ropero_fernando"
+    ]
+  },
+  {
+    "id": 509,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Fernando en Baños (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Fernando PASARON por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_si_banos_sergio",
+      "paso_si_banos_fernando"
+    ]
+  },
+  {
+    "id": 510,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Fernando en Baños (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Fernando pasaron por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_no_banos_sergio",
+      "paso_no_banos_fernando"
+    ]
+  },
+  {
+    "id": 511,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Fernando en Barra (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Fernando PASARON por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_si_barra_sergio",
+      "paso_si_barra_fernando"
+    ]
+  },
+  {
+    "id": 512,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Fernando en Barra (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Fernando pasaron por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_no_barra_sergio",
+      "paso_no_barra_fernando"
+    ]
+  },
+  {
+    "id": 513,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Fernando en Terraza (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Fernando PASARON por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_si_terraza_sergio",
+      "paso_si_terraza_fernando"
+    ]
+  },
+  {
+    "id": 514,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Fernando en Terraza (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Fernando pasaron por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_no_terraza_sergio",
+      "paso_no_terraza_fernando"
+    ]
+  },
+  {
+    "id": 515,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Fernando en Reservados (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Fernando PASARON por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_si_reservados_sergio",
+      "paso_si_reservados_fernando"
+    ]
+  },
+  {
+    "id": 516,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Fernando en Reservados (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Fernando pasaron por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_no_reservados_sergio",
+      "paso_no_reservados_fernando"
+    ]
+  },
+  {
+    "id": 517,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Fernando en Sala de Seguridad (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Fernando PASARON por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_si_sala_de_seguridad_sergio",
+      "paso_si_sala_de_seguridad_fernando"
+    ]
+  },
+  {
+    "id": 518,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Fernando en Sala de Seguridad (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Fernando pasaron por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_no_sala_de_seguridad_sergio",
+      "paso_no_sala_de_seguridad_fernando"
+    ]
+  },
+  {
+    "id": 519,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Fernando en Almacén (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Fernando PASARON por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_si_almacén_sergio",
+      "paso_si_almacén_fernando"
+    ]
+  },
+  {
+    "id": 520,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Fernando en Almacén (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Fernando pasaron por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_no_almacén_sergio",
+      "paso_no_almacén_fernando"
+    ]
+  },
+  {
+    "id": 523,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Javi en Pista de Baile (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Javi PASARON por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_si_pista_de_baile_sergio",
+      "paso_si_pista_de_baile_javi"
+    ]
+  },
+  {
+    "id": 524,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Javi en Pista de Baile (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Javi pasaron por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_no_pista_de_baile_sergio",
+      "paso_no_pista_de_baile_javi"
+    ]
+  },
+  {
+    "id": 525,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Javi en Ropero (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Javi PASARON por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_si_ropero_sergio",
+      "paso_si_ropero_javi"
+    ]
+  },
+  {
+    "id": 526,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Javi en Ropero (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Javi pasaron por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_no_ropero_sergio",
+      "paso_no_ropero_javi"
+    ]
+  },
+  {
+    "id": 527,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Javi en Baños (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Javi PASARON por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_si_banos_sergio",
+      "paso_si_banos_javi"
+    ]
+  },
+  {
+    "id": 528,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Javi en Baños (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Javi pasaron por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_no_banos_sergio",
+      "paso_no_banos_javi"
+    ]
+  },
+  {
+    "id": 529,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Javi en Barra (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Javi PASARON por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_si_barra_sergio",
+      "paso_si_barra_javi"
+    ]
+  },
+  {
+    "id": 530,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Javi en Barra (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Javi pasaron por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_no_barra_sergio",
+      "paso_no_barra_javi"
+    ]
+  },
+  {
+    "id": 531,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Javi en Terraza (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Javi PASARON por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_si_terraza_sergio",
+      "paso_si_terraza_javi"
+    ]
+  },
+  {
+    "id": 532,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Javi en Terraza (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Javi pasaron por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_no_terraza_sergio",
+      "paso_no_terraza_javi"
+    ]
+  },
+  {
+    "id": 533,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Javi en Reservados (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Javi PASARON por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_si_reservados_sergio",
+      "paso_si_reservados_javi"
+    ]
+  },
+  {
+    "id": 534,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Javi en Reservados (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Javi pasaron por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_no_reservados_sergio",
+      "paso_no_reservados_javi"
+    ]
+  },
+  {
+    "id": 535,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Javi en Sala de Seguridad (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Javi PASARON por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_si_sala_de_seguridad_sergio",
+      "paso_si_sala_de_seguridad_javi"
+    ]
+  },
+  {
+    "id": 536,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Javi en Sala de Seguridad (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Javi pasaron por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_no_sala_de_seguridad_sergio",
+      "paso_no_sala_de_seguridad_javi"
+    ]
+  },
+  {
+    "id": 537,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Javi en Almacén (SÍ)",
+    "texto": "Las cámaras confirman que tanto Sergio como Javi PASARON por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_si_almacén_sergio",
+      "paso_si_almacén_javi"
+    ]
+  },
+  {
+    "id": 538,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Sergio y Javi en Almacén (NO)",
+    "texto": "Las cámaras confirman que NI Sergio NI Javi pasaron por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_no_almacén_sergio",
+      "paso_no_almacén_javi"
+    ]
+  },
+  {
+    "id": 541,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Alberto en Pista de Baile (SÍ)",
+    "texto": "Las cámaras confirman que tanto Edu como Alberto PASARON por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_si_pista_de_baile_edu",
+      "paso_si_pista_de_baile_alberto"
+    ]
+  },
+  {
+    "id": 542,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Alberto en Pista de Baile (NO)",
+    "texto": "Las cámaras confirman que NI Edu NI Alberto pasaron por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_no_pista_de_baile_edu",
+      "paso_no_pista_de_baile_alberto"
+    ]
+  },
+  {
+    "id": 543,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Alberto en Ropero (SÍ)",
+    "texto": "Las cámaras confirman que tanto Edu como Alberto PASARON por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_si_ropero_edu",
+      "paso_si_ropero_alberto"
+    ]
+  },
+  {
+    "id": 544,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Alberto en Ropero (NO)",
+    "texto": "Las cámaras confirman que NI Edu NI Alberto pasaron por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_no_ropero_edu",
+      "paso_no_ropero_alberto"
+    ]
+  },
+  {
+    "id": 545,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Alberto en Baños (SÍ)",
+    "texto": "Las cámaras confirman que tanto Edu como Alberto PASARON por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_si_banos_edu",
+      "paso_si_banos_alberto"
+    ]
+  },
+  {
+    "id": 546,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Alberto en Baños (NO)",
+    "texto": "Las cámaras confirman que NI Edu NI Alberto pasaron por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_no_banos_edu",
+      "paso_no_banos_alberto"
+    ]
+  },
+  {
+    "id": 547,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Alberto en Barra (SÍ)",
+    "texto": "Las cámaras confirman que tanto Edu como Alberto PASARON por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_si_barra_edu",
+      "paso_si_barra_alberto"
+    ]
+  },
+  {
+    "id": 548,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Alberto en Barra (NO)",
+    "texto": "Las cámaras confirman que NI Edu NI Alberto pasaron por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_no_barra_edu",
+      "paso_no_barra_alberto"
+    ]
+  },
+  {
+    "id": 549,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Alberto en Terraza (SÍ)",
+    "texto": "Las cámaras confirman que tanto Edu como Alberto PASARON por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_si_terraza_edu",
+      "paso_si_terraza_alberto"
+    ]
+  },
+  {
+    "id": 550,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Alberto en Terraza (NO)",
+    "texto": "Las cámaras confirman que NI Edu NI Alberto pasaron por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_no_terraza_edu",
+      "paso_no_terraza_alberto"
+    ]
+  },
+  {
+    "id": 551,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Alberto en Reservados (SÍ)",
+    "texto": "Las cámaras confirman que tanto Edu como Alberto PASARON por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_si_reservados_edu",
+      "paso_si_reservados_alberto"
+    ]
+  },
+  {
+    "id": 552,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Alberto en Reservados (NO)",
+    "texto": "Las cámaras confirman que NI Edu NI Alberto pasaron por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_no_reservados_edu",
+      "paso_no_reservados_alberto"
+    ]
+  },
+  {
+    "id": 553,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Alberto en Sala de Seguridad (SÍ)",
+    "texto": "Las cámaras confirman que tanto Edu como Alberto PASARON por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_si_sala_de_seguridad_edu",
+      "paso_si_sala_de_seguridad_alberto"
+    ]
+  },
+  {
+    "id": 554,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Alberto en Sala de Seguridad (NO)",
+    "texto": "Las cámaras confirman que NI Edu NI Alberto pasaron por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_no_sala_de_seguridad_edu",
+      "paso_no_sala_de_seguridad_alberto"
+    ]
+  },
+  {
+    "id": 555,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Alberto en Almacén (SÍ)",
+    "texto": "Las cámaras confirman que tanto Edu como Alberto PASARON por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_si_almacén_edu",
+      "paso_si_almacén_alberto"
+    ]
+  },
+  {
+    "id": 556,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Alberto en Almacén (NO)",
+    "texto": "Las cámaras confirman que NI Edu NI Alberto pasaron por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_no_almacén_edu",
+      "paso_no_almacén_alberto"
+    ]
+  },
+  {
+    "id": 559,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Fernando en Pista de Baile (SÍ)",
+    "texto": "Las cámaras confirman que tanto Edu como Fernando PASARON por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_si_pista_de_baile_edu",
+      "paso_si_pista_de_baile_fernando"
+    ]
+  },
+  {
+    "id": 560,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Fernando en Pista de Baile (NO)",
+    "texto": "Las cámaras confirman que NI Edu NI Fernando pasaron por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_no_pista_de_baile_edu",
+      "paso_no_pista_de_baile_fernando"
+    ]
+  },
+  {
+    "id": 561,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Fernando en Ropero (SÍ)",
+    "texto": "Las cámaras confirman que tanto Edu como Fernando PASARON por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_si_ropero_edu",
+      "paso_si_ropero_fernando"
+    ]
+  },
+  {
+    "id": 562,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Fernando en Ropero (NO)",
+    "texto": "Las cámaras confirman que NI Edu NI Fernando pasaron por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_no_ropero_edu",
+      "paso_no_ropero_fernando"
+    ]
+  },
+  {
+    "id": 563,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Fernando en Baños (SÍ)",
+    "texto": "Las cámaras confirman que tanto Edu como Fernando PASARON por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_si_banos_edu",
+      "paso_si_banos_fernando"
+    ]
+  },
+  {
+    "id": 564,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Fernando en Baños (NO)",
+    "texto": "Las cámaras confirman que NI Edu NI Fernando pasaron por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_no_banos_edu",
+      "paso_no_banos_fernando"
+    ]
+  },
+  {
+    "id": 565,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Fernando en Barra (SÍ)",
+    "texto": "Las cámaras confirman que tanto Edu como Fernando PASARON por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_si_barra_edu",
+      "paso_si_barra_fernando"
+    ]
+  },
+  {
+    "id": 566,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Fernando en Barra (NO)",
+    "texto": "Las cámaras confirman que NI Edu NI Fernando pasaron por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_no_barra_edu",
+      "paso_no_barra_fernando"
+    ]
+  },
+  {
+    "id": 567,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Fernando en Terraza (SÍ)",
+    "texto": "Las cámaras confirman que tanto Edu como Fernando PASARON por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_si_terraza_edu",
+      "paso_si_terraza_fernando"
+    ]
+  },
+  {
+    "id": 568,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Fernando en Terraza (NO)",
+    "texto": "Las cámaras confirman que NI Edu NI Fernando pasaron por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_no_terraza_edu",
+      "paso_no_terraza_fernando"
+    ]
+  },
+  {
+    "id": 569,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Fernando en Reservados (SÍ)",
+    "texto": "Las cámaras confirman que tanto Edu como Fernando PASARON por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_si_reservados_edu",
+      "paso_si_reservados_fernando"
+    ]
+  },
+  {
+    "id": 570,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Fernando en Reservados (NO)",
+    "texto": "Las cámaras confirman que NI Edu NI Fernando pasaron por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_no_reservados_edu",
+      "paso_no_reservados_fernando"
+    ]
+  },
+  {
+    "id": 571,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Fernando en Sala de Seguridad (SÍ)",
+    "texto": "Las cámaras confirman que tanto Edu como Fernando PASARON por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_si_sala_de_seguridad_edu",
+      "paso_si_sala_de_seguridad_fernando"
+    ]
+  },
+  {
+    "id": 572,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Fernando en Sala de Seguridad (NO)",
+    "texto": "Las cámaras confirman que NI Edu NI Fernando pasaron por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_no_sala_de_seguridad_edu",
+      "paso_no_sala_de_seguridad_fernando"
+    ]
+  },
+  {
+    "id": 573,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Fernando en Almacén (SÍ)",
+    "texto": "Las cámaras confirman que tanto Edu como Fernando PASARON por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_si_almacén_edu",
+      "paso_si_almacén_fernando"
+    ]
+  },
+  {
+    "id": 574,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Fernando en Almacén (NO)",
+    "texto": "Las cámaras confirman que NI Edu NI Fernando pasaron por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_no_almacén_edu",
+      "paso_no_almacén_fernando"
+    ]
+  },
+  {
+    "id": 577,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Javi en Pista de Baile (SÍ)",
+    "texto": "Las cámaras confirman que tanto Edu como Javi PASARON por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_si_pista_de_baile_edu",
+      "paso_si_pista_de_baile_javi"
+    ]
+  },
+  {
+    "id": 578,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Javi en Pista de Baile (NO)",
+    "texto": "Las cámaras confirman que NI Edu NI Javi pasaron por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_no_pista_de_baile_edu",
+      "paso_no_pista_de_baile_javi"
+    ]
+  },
+  {
+    "id": 579,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Javi en Ropero (SÍ)",
+    "texto": "Las cámaras confirman que tanto Edu como Javi PASARON por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_si_ropero_edu",
+      "paso_si_ropero_javi"
+    ]
+  },
+  {
+    "id": 580,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Javi en Ropero (NO)",
+    "texto": "Las cámaras confirman que NI Edu NI Javi pasaron por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_no_ropero_edu",
+      "paso_no_ropero_javi"
+    ]
+  },
+  {
+    "id": 581,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Javi en Baños (SÍ)",
+    "texto": "Las cámaras confirman que tanto Edu como Javi PASARON por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_si_banos_edu",
+      "paso_si_banos_javi"
+    ]
+  },
+  {
+    "id": 582,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Javi en Baños (NO)",
+    "texto": "Las cámaras confirman que NI Edu NI Javi pasaron por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_no_banos_edu",
+      "paso_no_banos_javi"
+    ]
+  },
+  {
+    "id": 583,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Javi en Barra (SÍ)",
+    "texto": "Las cámaras confirman que tanto Edu como Javi PASARON por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_si_barra_edu",
+      "paso_si_barra_javi"
+    ]
+  },
+  {
+    "id": 584,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Javi en Barra (NO)",
+    "texto": "Las cámaras confirman que NI Edu NI Javi pasaron por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_no_barra_edu",
+      "paso_no_barra_javi"
+    ]
+  },
+  {
+    "id": 585,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Javi en Terraza (SÍ)",
+    "texto": "Las cámaras confirman que tanto Edu como Javi PASARON por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_si_terraza_edu",
+      "paso_si_terraza_javi"
+    ]
+  },
+  {
+    "id": 586,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Javi en Terraza (NO)",
+    "texto": "Las cámaras confirman que NI Edu NI Javi pasaron por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_no_terraza_edu",
+      "paso_no_terraza_javi"
+    ]
+  },
+  {
+    "id": 587,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Javi en Reservados (SÍ)",
+    "texto": "Las cámaras confirman que tanto Edu como Javi PASARON por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_si_reservados_edu",
+      "paso_si_reservados_javi"
+    ]
+  },
+  {
+    "id": 588,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Javi en Reservados (NO)",
+    "texto": "Las cámaras confirman que NI Edu NI Javi pasaron por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_no_reservados_edu",
+      "paso_no_reservados_javi"
+    ]
+  },
+  {
+    "id": 589,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Javi en Sala de Seguridad (SÍ)",
+    "texto": "Las cámaras confirman que tanto Edu como Javi PASARON por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_si_sala_de_seguridad_edu",
+      "paso_si_sala_de_seguridad_javi"
+    ]
+  },
+  {
+    "id": 590,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Javi en Sala de Seguridad (NO)",
+    "texto": "Las cámaras confirman que NI Edu NI Javi pasaron por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_no_sala_de_seguridad_edu",
+      "paso_no_sala_de_seguridad_javi"
+    ]
+  },
+  {
+    "id": 591,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Javi en Almacén (SÍ)",
+    "texto": "Las cámaras confirman que tanto Edu como Javi PASARON por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_si_almacén_edu",
+      "paso_si_almacén_javi"
+    ]
+  },
+  {
+    "id": 592,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Edu y Javi en Almacén (NO)",
+    "texto": "Las cámaras confirman que NI Edu NI Javi pasaron por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_no_almacén_edu",
+      "paso_no_almacén_javi"
+    ]
+  },
+
+  {
+    "id": 595,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Fernando en Pista de Baile (SÍ)",
+    "texto": "Las cámaras confirman que tanto Alberto como Fernando PASARON por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_si_pista_de_baile_alberto",
+      "paso_si_pista_de_baile_fernando"
+    ]
+  },
+  {
+    "id": 596,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Fernando en Pista de Baile (NO)",
+    "texto": "Las cámaras confirman que NI Alberto NI Fernando pasaron por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_no_pista_de_baile_alberto",
+      "paso_no_pista_de_baile_fernando"
+    ]
+  },
+  {
+    "id": 597,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Fernando en Ropero (SÍ)",
+    "texto": "Las cámaras confirman que tanto Alberto como Fernando PASARON por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_si_ropero_alberto",
+      "paso_si_ropero_fernando"
+    ]
+  },
+  {
+    "id": 598,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Fernando en Ropero (NO)",
+    "texto": "Las cámaras confirman que NI Alberto NI Fernando pasaron por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_no_ropero_alberto",
+      "paso_no_ropero_fernando"
+    ]
+  },
+  {
+    "id": 599,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Fernando en Baños (SÍ)",
+    "texto": "Las cámaras confirman que tanto Alberto como Fernando PASARON por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_si_banos_alberto",
+      "paso_si_banos_fernando"
+    ]
+  },
+  {
+    "id": 600,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Fernando en Baños (NO)",
+    "texto": "Las cámaras confirman que NI Alberto NI Fernando pasaron por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_no_banos_alberto",
+      "paso_no_banos_fernando"
+    ]
+  },
+  {
+    "id": 601,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Fernando en Barra (SÍ)",
+    "texto": "Las cámaras confirman que tanto Alberto como Fernando PASARON por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_si_barra_alberto",
+      "paso_si_barra_fernando"
+    ]
+  },
+  {
+    "id": 602,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Fernando en Barra (NO)",
+    "texto": "Las cámaras confirman que NI Alberto NI Fernando pasaron por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_no_barra_alberto",
+      "paso_no_barra_fernando"
+    ]
+  },
+  {
+    "id": 603,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Fernando en Terraza (SÍ)",
+    "texto": "Las cámaras confirman que tanto Alberto como Fernando PASARON por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_si_terraza_alberto",
+      "paso_si_terraza_fernando"
+    ]
+  },
+  {
+    "id": 604,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Fernando en Terraza (NO)",
+    "texto": "Las cámaras confirman que NI Alberto NI Fernando pasaron por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_no_terraza_alberto",
+      "paso_no_terraza_fernando"
+    ]
+  },
+  {
+    "id": 605,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Fernando en Reservados (SÍ)",
+    "texto": "Las cámaras confirman que tanto Alberto como Fernando PASARON por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_si_reservados_alberto",
+      "paso_si_reservados_fernando"
+    ]
+  },
+  {
+    "id": 606,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Fernando en Reservados (NO)",
+    "texto": "Las cámaras confirman que NI Alberto NI Fernando pasaron por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_no_reservados_alberto",
+      "paso_no_reservados_fernando"
+    ]
+  },
+  {
+    "id": 607,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Fernando en Sala de Seguridad (SÍ)",
+    "texto": "Las cámaras confirman que tanto Alberto como Fernando PASARON por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_si_sala_de_seguridad_alberto",
+      "paso_si_sala_de_seguridad_fernando"
+    ]
+  },
+  {
+    "id": 608,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Fernando en Sala de Seguridad (NO)",
+    "texto": "Las cámaras confirman que NI Alberto NI Fernando pasaron por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_no_sala_de_seguridad_alberto",
+      "paso_no_sala_de_seguridad_fernando"
+    ]
+  },
+  {
+    "id": 609,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Fernando en Almacén (SÍ)",
+    "texto": "Las cámaras confirman que tanto Alberto como Fernando PASARON por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_si_almacén_alberto",
+      "paso_si_almacén_fernando"
+    ]
+  },
+  {
+    "id": 610,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Fernando en Almacén (NO)",
+    "texto": "Las cámaras confirman que NI Alberto NI Fernando pasaron por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_no_almacén_alberto",
+      "paso_no_almacén_fernando"
+    ]
+  },
+  {
+    "id": 613,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Javi en Pista de Baile (SÍ)",
+    "texto": "Las cámaras confirman que tanto Alberto como Javi PASARON por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_si_pista_de_baile_alberto",
+      "paso_si_pista_de_baile_javi"
+    ]
+  },
+  {
+    "id": 614,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Javi en Pista de Baile (NO)",
+    "texto": "Las cámaras confirman que NI Alberto NI Javi pasaron por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_no_pista_de_baile_alberto",
+      "paso_no_pista_de_baile_javi"
+    ]
+  },
+  {
+    "id": 615,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Javi en Ropero (SÍ)",
+    "texto": "Las cámaras confirman que tanto Alberto como Javi PASARON por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_si_ropero_alberto",
+      "paso_si_ropero_javi"
+    ]
+  },
+  {
+    "id": 616,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Javi en Ropero (NO)",
+    "texto": "Las cámaras confirman que NI Alberto NI Javi pasaron por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_no_ropero_alberto",
+      "paso_no_ropero_javi"
+    ]
+  },
+  {
+    "id": 617,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Javi en Baños (SÍ)",
+    "texto": "Las cámaras confirman que tanto Alberto como Javi PASARON por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_si_banos_alberto",
+      "paso_si_banos_javi"
+    ]
+  },
+  {
+    "id": 618,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Javi en Baños (NO)",
+    "texto": "Las cámaras confirman que NI Alberto NI Javi pasaron por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_no_banos_alberto",
+      "paso_no_banos_javi"
+    ]
+  },
+  {
+    "id": 619,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Javi en Barra (SÍ)",
+    "texto": "Las cámaras confirman que tanto Alberto como Javi PASARON por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_si_barra_alberto",
+      "paso_si_barra_javi"
+    ]
+  },
+  {
+    "id": 620,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Javi en Barra (NO)",
+    "texto": "Las cámaras confirman que NI Alberto NI Javi pasaron por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_no_barra_alberto",
+      "paso_no_barra_javi"
+    ]
+  },
+  {
+    "id": 621,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Javi en Terraza (SÍ)",
+    "texto": "Las cámaras confirman que tanto Alberto como Javi PASARON por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_si_terraza_alberto",
+      "paso_si_terraza_javi"
+    ]
+  },
+  {
+    "id": 622,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Javi en Terraza (NO)",
+    "texto": "Las cámaras confirman que NI Alberto NI Javi pasaron por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_no_terraza_alberto",
+      "paso_no_terraza_javi"
+    ]
+  },
+  {
+    "id": 623,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Javi en Reservados (SÍ)",
+    "texto": "Las cámaras confirman que tanto Alberto como Javi PASARON por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_si_reservados_alberto",
+      "paso_si_reservados_javi"
+    ]
+  },
+  {
+    "id": 624,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Javi en Reservados (NO)",
+    "texto": "Las cámaras confirman que NI Alberto NI Javi pasaron por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_no_reservados_alberto",
+      "paso_no_reservados_javi"
+    ]
+  },
+  {
+    "id": 625,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Javi en Sala de Seguridad (SÍ)",
+    "texto": "Las cámaras confirman que tanto Alberto como Javi PASARON por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_si_sala_de_seguridad_alberto",
+      "paso_si_sala_de_seguridad_javi"
+    ]
+  },
+  {
+    "id": 626,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Javi en Sala de Seguridad (NO)",
+    "texto": "Las cámaras confirman que NI Alberto NI Javi pasaron por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_no_sala_de_seguridad_alberto",
+      "paso_no_sala_de_seguridad_javi"
+    ]
+  },
+  {
+    "id": 627,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Javi en Almacén (SÍ)",
+    "texto": "Las cámaras confirman que tanto Alberto como Javi PASARON por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_si_almacén_alberto",
+      "paso_si_almacén_javi"
+    ]
+  },
+  {
+    "id": 628,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Alberto y Javi en Almacén (NO)",
+    "texto": "Las cámaras confirman que NI Alberto NI Javi pasaron por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_no_almacén_alberto",
+      "paso_no_almacén_javi"
+    ]
+  },
+  {
+    "id": 631,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Fernando y Javi en Pista de Baile (SÍ)",
+    "texto": "Las cámaras confirman que tanto Fernando como Javi PASARON por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_si_pista_de_baile_fernando",
+      "paso_si_pista_de_baile_javi"
+    ]
+  },
+  {
+    "id": 632,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Fernando y Javi en Pista de Baile (NO)",
+    "texto": "Las cámaras confirman que NI Fernando NI Javi pasaron por Pista de Baile.",
+    "valor": 3,
+    "tags": [
+      "paso_no_pista_de_baile_fernando",
+      "paso_no_pista_de_baile_javi"
+    ]
+  },
+  {
+    "id": 633,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Fernando y Javi en Ropero (SÍ)",
+    "texto": "Las cámaras confirman que tanto Fernando como Javi PASARON por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_si_ropero_fernando",
+      "paso_si_ropero_javi"
+    ]
+  },
+  {
+    "id": 634,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Fernando y Javi en Ropero (NO)",
+    "texto": "Las cámaras confirman que NI Fernando NI Javi pasaron por Ropero.",
+    "valor": 3,
+    "tags": [
+      "paso_no_ropero_fernando",
+      "paso_no_ropero_javi"
+    ]
+  },
+  {
+    "id": 635,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Fernando y Javi en Baños (SÍ)",
+    "texto": "Las cámaras confirman que tanto Fernando como Javi PASARON por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_si_banos_fernando",
+      "paso_si_banos_javi"
+    ]
+  },
+  {
+    "id": 636,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Fernando y Javi en Baños (NO)",
+    "texto": "Las cámaras confirman que NI Fernando NI Javi pasaron por Baños.",
+    "valor": 3,
+    "tags": [
+      "paso_no_banos_fernando",
+      "paso_no_banos_javi"
+    ]
+  },
+  {
+    "id": 637,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Fernando y Javi en Barra (SÍ)",
+    "texto": "Las cámaras confirman que tanto Fernando como Javi PASARON por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_si_barra_fernando",
+      "paso_si_barra_javi"
+    ]
+  },
+  {
+    "id": 638,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Fernando y Javi en Barra (NO)",
+    "texto": "Las cámaras confirman que NI Fernando NI Javi pasaron por Barra.",
+    "valor": 3,
+    "tags": [
+      "paso_no_barra_fernando",
+      "paso_no_barra_javi"
+    ]
+  },
+  {
+    "id": 639,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Fernando y Javi en Terraza (SÍ)",
+    "texto": "Las cámaras confirman que tanto Fernando como Javi PASARON por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_si_terraza_fernando",
+      "paso_si_terraza_javi"
+    ]
+  },
+  {
+    "id": 640,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Fernando y Javi en Terraza (NO)",
+    "texto": "Las cámaras confirman que NI Fernando NI Javi pasaron por Terraza.",
+    "valor": 3,
+    "tags": [
+      "paso_no_terraza_fernando",
+      "paso_no_terraza_javi"
+    ]
+  },
+  {
+    "id": 641,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Fernando y Javi en Reservados (SÍ)",
+    "texto": "Las cámaras confirman que tanto Fernando como Javi PASARON por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_si_reservados_fernando",
+      "paso_si_reservados_javi"
+    ]
+  },
+  {
+    "id": 642,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Fernando y Javi en Reservados (NO)",
+    "texto": "Las cámaras confirman que NI Fernando NI Javi pasaron por Reservados.",
+    "valor": 3,
+    "tags": [
+      "paso_no_reservados_fernando",
+      "paso_no_reservados_javi"
+    ]
+  },
+  {
+    "id": 643,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Fernando y Javi en Sala de Seguridad (SÍ)",
+    "texto": "Las cámaras confirman que tanto Fernando como Javi PASARON por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_si_sala_de_seguridad_fernando",
+      "paso_si_sala_de_seguridad_javi"
+    ]
+  },
+  {
+    "id": 644,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Fernando y Javi en Sala de Seguridad (NO)",
+    "texto": "Las cámaras confirman que NI Fernando NI Javi pasaron por Sala de Seguridad.",
+    "valor": 3,
+    "tags": [
+      "paso_no_sala_de_seguridad_fernando",
+      "paso_no_sala_de_seguridad_javi"
+    ]
+  },
+  {
+    "id": 645,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Fernando y Javi en Almacén (SÍ)",
+    "texto": "Las cámaras confirman que tanto Fernando como Javi PASARON por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_si_almacén_fernando",
+      "paso_si_almacén_javi"
+    ]
+  },
+  {
+    "id": 646,
+    "tipo": "camara_pareja",
+    "nombre": "Cámara: Fernando y Javi en Almacén (NO)",
+    "texto": "Las cámaras confirman que NI Fernando NI Javi pasaron por Almacén.",
+    "valor": 3,
+    "tags": [
+      "paso_no_almacén_fernando",
+      "paso_no_almacén_javi"
+    ]
+  }
+]
