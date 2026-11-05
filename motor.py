@@ -218,7 +218,7 @@ def generar_verdad(dificultad):
     }
 
 # =============================================================================
-# 5. VALIDADOR DE CARTAS (CORREGIDO CATEGORÍAS)
+# 5. VALIDADOR DE CARTAS (BLINDADO)
 # =============================================================================
 
 def es_carta_valida(carta, verdad):
@@ -226,37 +226,45 @@ def es_carta_valida(carta, verdad):
     tipo = carta.get("tipo")
     texto = carta.get("texto", "")
 
-    # --- FIX 2: CATEGORÍAS ---
+    # --- CATEGORÍAS FORENSES ---
     if tipo == "informe_categoria":
         cat_real = verdad["datos_arma"]["cat"]
         tag_carta = tags[0]
-        
-        # Si hay conflicto (coinciden semánticamente), la carta miente al descartarlo.
-        # Por tanto, devolvemos FALSE.
         if hay_conflicto_categoria(cat_real, tag_carta):
             return False
         return True
 
-# --- DESCARTE ARMA ---
+    # --- SÍNTOMAS FORENSES (EL BUG ARREGLADO) ---
+    if tipo == "sintoma_negativo":
+        sintomas_reales = [slugify(s) for s in verdad["datos_arma"]["sintomas"]]
+        sintoma_carta = slugify(tags[0].replace("no_sintoma_", ""))
+        # Si la carta dice que NO hay un síntoma, pero el arma SÍ lo tiene, la carta miente (fuera)
+        if sintoma_carta in sintomas_reales: return False
+        return True
+
+    if tipo == "sintoma_positivo":
+        sintomas_reales = [slugify(s) for s in verdad["datos_arma"]["sintomas"]]
+        sintoma_carta = slugify(tags[0].replace("si_sintoma_", ""))
+        # Si la carta dice que SÍ hay un síntoma, pero el arma NO lo tiene, la carta miente (fuera)
+        if sintoma_carta not in sintomas_reales: return False
+        return True
+
+    # --- DESCARTE ARMA ---
     if tipo == "descarte_arma":
         texto_slug = slugify(texto)
         tags_norm = " ".join([slugify(t) for t in tags])
         arma_real = slugify(verdad['arma'])
         
-        # 1. Chequeo exacto
         if f"no_arma_{arma_real}" in tags_norm: return False
         if arma_real in texto_slug: return False
         
-        # 2. Parche salvavidas para erratas del JSON (Durum y Bellido)
         if "durum" in arma_real and ("durum" in texto_slug or "durum" in tags_norm): return False
         if "bellido" in arma_real and ("bellido" in texto_slug or "bellido" in tags_norm): return False
-        
         return True
 
-# --- EVIDENCIA DE MÓVIL ---
+    # --- EVIDENCIA DE MÓVIL (EL PARCHE DE 3 CARTAS) ---
     if tipo == "evidencia_motivo":
         tag_carta = tags[0]
-        
         combo_asesino = f"evidencia_motivo_{slugify(verdad['motivo'])}_{slugify(verdad['culpable'])}"
         
         combo_complice = ""
@@ -267,19 +275,15 @@ def es_carta_valida(carta, verdad):
         if verdad.get('cabeza_turco'):
             combo_turco = f"evidencia_motivo_{slugify(verdad['motivo_turco'])}_{slugify(verdad['cabeza_turco'])}"
             
-        # Si la evidencia apunta al asesino, al cómplice o al cabeza de turco, la metemos para liar
         if tag_carta in [combo_asesino, combo_complice, combo_turco]:
             return True
-            
         return False
 
-
-    # --- BLOQUEOS ---
+    # --- BLOQUEOS DE PASO ---
     if tipo == "bloqueo_paso":
         tag_bloqueo = tags[0]
         bloqueo_detectado = False
         for u, v in CONEXIONES:
-            # Ajustamos los nombres exactamente a como los escribiste en cartas_final.json
             nombre_u = slugify(u).replace("pista_de_baile", "pista_baile").replace("banos", "baños")
             nombre_v = slugify(v).replace("pista_de_baile", "pista_baile").replace("banos", "baños")
             
@@ -294,7 +298,7 @@ def es_carta_valida(carta, verdad):
         if not bloqueo_detectado: return False
         return True
 
-    # --- CÁMARAS ---
+    # --- CÁMARAS DE SEGURIDAD ---
     if "camara" in tipo:
         all_tags = " ".join(tags)
         es_afirmativa = "paso_si" in all_tags
@@ -320,26 +324,15 @@ def es_carta_valida(carta, verdad):
         if not es_afirmativa and not ninguno_paso: return False
         return True
 
-    # --- SÍNTOMAS ---
-    if tipo == "sintoma_negativo":
-        sintomas_reales = [slugify(s) for s in verdad["datos_arma"]["sintomas"]]
-        sintoma_carta = tags[0].replace("no_sintoma_", "")
-        if slugify(sintoma_carta) in sintomas_reales: return False
-        return True
-
-    if tipo == "sintoma_positivo":
-        sintomas_reales = [slugify(s) for s in verdad["datos_arma"]["sintomas"]]
-        sintoma_carta = tags[0].replace("si_sintoma_", "")
-        if slugify(sintoma_carta) not in sintomas_reales: return False
-        return True
-
-    # --- LUGAR LIMPIO ---
+    # --- LUGAR LIMPIO (EL PARCHE DEL CÓMPLICE) ---
     if tipo == "lugar_limpio":
-        lugar_carta = tags[0].replace("limpio_", "")
-        if slugify(lugar_carta) == slugify(verdad["origen_arma"]): return False
+        lugar_carta = slugify(tags[0].replace("limpio_", ""))
+        origen = slugify(verdad["origen_arma"])
+        crimen = slugify(verdad["lugar_crimen"])
+        if lugar_carta in [origen, crimen]: return False
         return True
 
-    # --- DESCARTES DE MOTIVO ---
+    # --- DESCARTES DE MOTIVO GENERAL Y ESPECÍFICO ---
     if tipo == "descarte_motivo":
         if f"no_motivo_{slugify(verdad['motivo'])}" in tags: return False
         if verdad.get("motivo_complice") and f"no_motivo_{slugify(verdad['motivo_complice'])}" in tags: return False
@@ -352,31 +345,19 @@ def es_carta_valida(carta, verdad):
             combo_complice = f"no_motivo_{slugify(verdad['motivo_complice'])}_{slugify(verdad['complice'])}"
             if combo_complice in tags: return False
 
-    if tipo == "descarte_motivo_especifico":
-        # Descarte específico: "No fue venganza de Fernando"
-        combo = f"no_motivo_{slugify(verdad['motivo'])}_{slugify(verdad['culpable'])}"
-        if combo in tags: return False
-
-    # --- ACUSACIONES ---
+    # --- ACUSACIONES DE RIVALES ---
     if tipo == "acusacion_motivo":
         acusador = next(t for t in tags if t.startswith("acusador_")).replace("acusador_", "").capitalize()
         acusado = next(t for t in tags if t.startswith("acusado_")).replace("acusado_", "").capitalize()
         rivales = verdad["rivalidades"].get(acusador, [])
         if acusado not in rivales: return False
         
-        # VALIDACIÓN EXTRA: El acusado debe tener ese motivo en su lista real
-        # Si la carta acusa a "Fernando por Borrachera", pero Fernando no tiene ese móvil -> Falso (inconsistente)
         motivo_tag = next(t for t in tags if t.startswith("motivo_")).replace("motivo_", "")
-        
-        # Recuperamos la lista de motivos posibles del acusado
         motivos_posibles_acusado = [slugify(m) for m in MOTIVOS_POR_SOSPECHOSO.get(acusado, [])]
-        
-        if motivo_tag not in motivos_posibles_acusado:
-            return False # Carta absurda: acusa de algo imposible para ese pj
-
+        if motivo_tag not in motivos_posibles_acusado: return False
         return True
 
-    # --- SOCIAL ---
+    # --- COARTADAS DE UNIÓN ---
     if tipo == "coartada_union":
         p1 = tags[0].split("_")[1].capitalize()
         p2 = tags[0].split("_")[3].capitalize()
@@ -388,43 +369,28 @@ def es_carta_valida(carta, verdad):
         lugar2 = verdad["posiciones"].get(p2)
         if lugar1 != lugar2: return False
 
+    # --- COARTADAS INDIVIDUALES (ARREGLADO) ---
     if tipo == "coartada":
         p = next(t.replace("nombre_", "") for t in tags if "nombre_" in t)
-        l = next(t.replace("fin_en_", "") for t in tags if "fin_en_" in t)
+        l = slugify(next(t.replace("fin_en_", "") for t in tags if "fin_en_" in t))
         
-        # EL ASESINO Y EL CÓMPLICE MIENTEN JUNTOS: Usan el origen del arma como coartada
         if p == verdad["culpable"] or p == verdad.get("complice"):
             if slugify(verdad["origen_arma"]) != l: return False
         else:
-            # LOS INOCENTES DICEN LA VERDAD: Declaran su posición final real
-            if slugify(verdad["posiciones"][p]) != l: return False
-        
-        if p == verdad["culpable"]:
-            # EL ASESINO MIENTE: Usa como coartada la sala donde robó el arma
-            if slugify(verdad["origen_arma"]) != l: return False
-        else:
-            # LOS INOCENTES DICEN LA VERDAD: Declaran su posición final real
             if slugify(verdad["posiciones"][p]) != l: return False
 
+    # --- DECLARACIÓN DE SOLEDAD ---
     if tipo == "declaracion_soledad":
         p = next(t.replace("nombre_", "") for t in tags if "nombre_" in t)
-        
-        # LOS MALOS: Si son dos, NO pueden decir que estaban solos. Si el asesino actuó sin cómplice, usa la tapadera.
         if p == verdad["culpable"] or p == verdad.get("complice"):
-            if verdad.get("complice"): return False # Se delatarían a sí mismos
-            
+            if verdad.get("complice"): return False 
             lugar_p = verdad["origen_arma"]
             testigos = list(verdad["posiciones"].values()).count(lugar_p)
             if testigos > 0: return False 
         else:
-            # LOS INOCENTES: Dicen la verdad
             lugar_p = verdad["posiciones"][p]
             gente = list(verdad["posiciones"].values()).count(lugar_p)
             if gente > 1: return False
-
-    if tipo == "evidencia_motivo":
-        combo = f"evidencia_motivo_{slugify(verdad['motivo'])}_{slugify(verdad['culpable'])}"
-        if combo not in tags: return False
 
     return True
 
